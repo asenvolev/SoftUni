@@ -1,0 +1,6 @@
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\LettersCombinations\bin\Debug\LettersCombinations.exe.config
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\LettersCombinations\bin\Debug\LettersCombinations.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\LettersCombinations\bin\Debug\LettersCombinations.pdb
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\LettersCombinations\obj\Debug\LettersCombinations.csprojResolveAssemblyReference.cache
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\LettersCombinations\obj\Debug\LettersCombinations.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\LettersCombinations\obj\Debug\LettersCombinations.pdb

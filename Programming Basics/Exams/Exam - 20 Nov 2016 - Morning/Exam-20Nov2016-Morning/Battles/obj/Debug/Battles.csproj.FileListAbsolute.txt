@@ -1,0 +1,5 @@
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Battles\bin\Debug\Battles.exe.config
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Battles\bin\Debug\Battles.exe
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Battles\bin\Debug\Battles.pdb
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Battles\obj\Debug\Battles.exe
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Battles\obj\Debug\Battles.pdb

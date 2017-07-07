@@ -1,0 +1,6 @@
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-28Aug2016\Axe\bin\Debug\Axe.exe.config
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-28Aug2016\Axe\bin\Debug\Axe.exe
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-28Aug2016\Axe\bin\Debug\Axe.pdb
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-28Aug2016\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-28Aug2016\Axe\obj\Debug\Axe.exe
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-28Aug2016\Axe\obj\Debug\Axe.pdb

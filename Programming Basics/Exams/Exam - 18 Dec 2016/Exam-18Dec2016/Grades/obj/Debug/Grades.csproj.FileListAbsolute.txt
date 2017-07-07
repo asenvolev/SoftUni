@@ -1,0 +1,6 @@
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\Grades\bin\Debug\Grades.exe.config
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\Grades\bin\Debug\Grades.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\Grades\bin\Debug\Grades.pdb
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\Grades\obj\Debug\Grades.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\Exam-18Dec2016\Grades\obj\Debug\Grades.pdb

@@ -1,0 +1,5 @@
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Diamond\bin\Debug\Diamond.exe.config
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Diamond\bin\Debug\Diamond.exe
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Diamond\bin\Debug\Diamond.pdb
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Diamond\obj\Debug\Diamond.exe
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Diamond\obj\Debug\Diamond.pdb

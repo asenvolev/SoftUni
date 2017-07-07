@@ -1,0 +1,6 @@
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Money\bin\Debug\Money.exe.config
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Money\bin\Debug\Money.exe
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Money\bin\Debug\Money.pdb
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Money\obj\Debug\Money.exe
+F:\Softuni\Exams\Exam - 17 July 2016\Exam-17July2016\Money\obj\Debug\Money.pdb

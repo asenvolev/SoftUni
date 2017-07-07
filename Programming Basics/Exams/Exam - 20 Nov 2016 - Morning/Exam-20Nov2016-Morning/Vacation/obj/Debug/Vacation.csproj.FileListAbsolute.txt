@@ -1,0 +1,6 @@
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Vacation\bin\Debug\Vacation.exe.config
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Vacation\bin\Debug\Vacation.exe
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Vacation\bin\Debug\Vacation.pdb
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Vacation\obj\Debug\Vacation.csprojResolveAssemblyReference.cache
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Vacation\obj\Debug\Vacation.exe
+F:\Softuni\Exams\Exam - 28 Aug 2016\Exam-20Nov2016-Morning\Vacation\obj\Debug\Vacation.pdb
