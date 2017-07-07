@@ -1,0 +1,6 @@
+F:\Softuni\DrawingFiguresWithLoops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe.config
+F:\Softuni\DrawingFiguresWithLoops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe
+F:\Softuni\DrawingFiguresWithLoops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.pdb
+F:\Softuni\DrawingFiguresWithLoops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.csprojResolveAssemblyReference.cache
+F:\Softuni\DrawingFiguresWithLoops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.exe
+F:\Softuni\DrawingFiguresWithLoops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.pdb

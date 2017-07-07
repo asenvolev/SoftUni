@@ -1,0 +1,6 @@
+F:\Softuni\DrawingFiguresWithLoops\House\bin\Debug\House.exe.config
+F:\Softuni\DrawingFiguresWithLoops\House\bin\Debug\House.exe
+F:\Softuni\DrawingFiguresWithLoops\House\bin\Debug\House.pdb
+F:\Softuni\DrawingFiguresWithLoops\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+F:\Softuni\DrawingFiguresWithLoops\House\obj\Debug\House.exe
+F:\Softuni\DrawingFiguresWithLoops\House\obj\Debug\House.pdb

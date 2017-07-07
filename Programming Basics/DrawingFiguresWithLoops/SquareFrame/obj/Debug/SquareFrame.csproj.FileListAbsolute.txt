@@ -1,0 +1,6 @@
+F:\Softuni\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.exe.config
+F:\Softuni\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.exe
+F:\Softuni\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.pdb
+F:\Softuni\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.csprojResolveAssemblyReference.cache
+F:\Softuni\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.exe
+F:\Softuni\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.pdb

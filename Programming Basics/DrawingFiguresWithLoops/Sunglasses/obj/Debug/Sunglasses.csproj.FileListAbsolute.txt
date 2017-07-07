@@ -1,0 +1,6 @@
+F:\Softuni\DrawingFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
+F:\Softuni\DrawingFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.exe
+F:\Softuni\DrawingFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.pdb
+F:\Softuni\DrawingFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+F:\Softuni\DrawingFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.exe
+F:\Softuni\DrawingFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.pdb

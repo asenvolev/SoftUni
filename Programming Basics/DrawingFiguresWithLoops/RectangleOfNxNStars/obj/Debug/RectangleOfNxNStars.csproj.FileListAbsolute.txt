@@ -1,0 +1,5 @@
+F:\Softuni\DrawingFiguresWithLoops\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.exe.config
+F:\Softuni\DrawingFiguresWithLoops\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.exe
+F:\Softuni\DrawingFiguresWithLoops\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.pdb
+F:\Softuni\DrawingFiguresWithLoops\RectangleOfNxNStars\obj\Debug\RectangleOfNxNStars.exe
+F:\Softuni\DrawingFiguresWithLoops\RectangleOfNxNStars\obj\Debug\RectangleOfNxNStars.pdb

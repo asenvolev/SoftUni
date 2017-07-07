@@ -1,0 +1,5 @@
+F:\Softuni\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+F:\Softuni\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe
+F:\Softuni\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.pdb
+F:\Softuni\DrawingFiguresWithLoops\ChristmasTree\obj\Debug\ChristmasTree.exe
+F:\Softuni\DrawingFiguresWithLoops\ChristmasTree\obj\Debug\ChristmasTree.pdb

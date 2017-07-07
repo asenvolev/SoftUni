@@ -1,0 +1,5 @@
+F:\Softuni\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+F:\Softuni\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+F:\Softuni\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+F:\Softuni\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+F:\Softuni\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb
