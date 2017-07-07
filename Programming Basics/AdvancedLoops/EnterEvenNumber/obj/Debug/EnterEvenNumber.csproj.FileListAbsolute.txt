@@ -1,0 +1,5 @@
+F:\Softuni\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+F:\Softuni\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+F:\Softuni\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+F:\Softuni\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+F:\Softuni\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

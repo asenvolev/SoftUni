@@ -1,0 +1,6 @@
+F:\Softuni\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+F:\Softuni\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe
+F:\Softuni\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.pdb
+F:\Softuni\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.csprojResolveAssemblyReference.cache
+F:\Softuni\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.exe
+F:\Softuni\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.pdb

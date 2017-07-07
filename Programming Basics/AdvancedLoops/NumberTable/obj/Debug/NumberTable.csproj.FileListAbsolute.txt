@@ -1,0 +1,5 @@
+F:\Softuni\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe.config
+F:\Softuni\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe
+F:\Softuni\AdvancedLoops\NumberTable\bin\Debug\NumberTable.pdb
+F:\Softuni\AdvancedLoops\NumberTable\obj\Debug\NumberTable.exe
+F:\Softuni\AdvancedLoops\NumberTable\obj\Debug\NumberTable.pdb

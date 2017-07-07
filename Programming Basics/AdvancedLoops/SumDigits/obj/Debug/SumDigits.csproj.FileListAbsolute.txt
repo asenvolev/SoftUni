@@ -1,0 +1,6 @@
+F:\Softuni\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+F:\Softuni\AdvancedLoops\SumDigits\obj\Debug\SumDigits.csprojResolveAssemblyReference.cache
+F:\Softuni\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe
+F:\Softuni\AdvancedLoops\SumDigits\bin\Debug\SumDigits.pdb
+F:\Softuni\AdvancedLoops\SumDigits\obj\Debug\SumDigits.exe
+F:\Softuni\AdvancedLoops\SumDigits\obj\Debug\SumDigits.pdb

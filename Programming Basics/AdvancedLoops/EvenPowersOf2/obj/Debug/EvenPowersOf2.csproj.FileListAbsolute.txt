@@ -1,0 +1,6 @@
+F:\Softuni\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
+F:\Softuni\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
+F:\Softuni\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
+F:\Softuni\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.csprojResolveAssemblyReference.cache
+F:\Softuni\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
+F:\Softuni\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

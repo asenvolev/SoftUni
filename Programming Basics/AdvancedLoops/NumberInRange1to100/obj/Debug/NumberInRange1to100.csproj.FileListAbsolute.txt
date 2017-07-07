@@ -1,0 +1,5 @@
+F:\Softuni\AdvancedLoops\NumberInRange1to100\bin\Debug\NumberInRange1to100.exe.config
+F:\Softuni\AdvancedLoops\NumberInRange1to100\bin\Debug\NumberInRange1to100.exe
+F:\Softuni\AdvancedLoops\NumberInRange1to100\bin\Debug\NumberInRange1to100.pdb
+F:\Softuni\AdvancedLoops\NumberInRange1to100\obj\Debug\NumberInRange1to100.exe
+F:\Softuni\AdvancedLoops\NumberInRange1to100\obj\Debug\NumberInRange1to100.pdb

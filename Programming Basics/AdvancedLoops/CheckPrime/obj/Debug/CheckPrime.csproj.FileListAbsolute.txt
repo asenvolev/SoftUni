@@ -1,0 +1,6 @@
+F:\Softuni\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe.config
+F:\Softuni\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe
+F:\Softuni\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.pdb
+F:\Softuni\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.csprojResolveAssemblyReference.cache
+F:\Softuni\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.exe
+F:\Softuni\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.pdb

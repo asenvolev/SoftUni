@@ -1,0 +1,6 @@
+F:\Softuni\AdvancedLoops\Factorial\bin\Debug\Factorial.exe.config
+F:\Softuni\AdvancedLoops\Factorial\bin\Debug\Factorial.exe
+F:\Softuni\AdvancedLoops\Factorial\bin\Debug\Factorial.pdb
+F:\Softuni\AdvancedLoops\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+F:\Softuni\AdvancedLoops\Factorial\obj\Debug\Factorial.exe
+F:\Softuni\AdvancedLoops\Factorial\obj\Debug\Factorial.pdb
