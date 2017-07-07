@@ -1,0 +1,1 @@
+F:\Softuni\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.exe.config

@@ -1,0 +1,1 @@
+F:\Softuni\ComplexConditionalStatements\FruitShop\bin\Debug\FruitShop.exe.config

@@ -1,0 +1,1 @@
+F:\Softuni\ComplexConditionalStatements\PointInRectangle\bin\Debug\PointInRectangle.exe.config
