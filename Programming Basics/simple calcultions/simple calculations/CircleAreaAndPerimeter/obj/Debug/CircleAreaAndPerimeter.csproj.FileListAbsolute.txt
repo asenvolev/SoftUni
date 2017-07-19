@@ -1,0 +1,6 @@
+F:\Softuni\simple calcultions\simple calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+F:\Softuni\simple calcultions\simple calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+F:\Softuni\simple calcultions\simple calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+F:\Softuni\simple calcultions\simple calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+F:\Softuni\simple calcultions\simple calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+F:\Softuni\simple calcultions\simple calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

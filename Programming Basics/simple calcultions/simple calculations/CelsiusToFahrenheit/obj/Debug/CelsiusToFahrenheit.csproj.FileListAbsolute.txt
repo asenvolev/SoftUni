@@ -1,0 +1,5 @@
+F:\Softuni\simple calcultions\simple calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+F:\Softuni\simple calcultions\simple calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+F:\Softuni\simple calcultions\simple calculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+F:\Softuni\simple calcultions\simple calculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+F:\Softuni\simple calcultions\simple calculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

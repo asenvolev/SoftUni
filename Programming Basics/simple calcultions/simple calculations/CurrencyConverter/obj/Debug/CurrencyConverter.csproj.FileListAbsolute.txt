@@ -1,0 +1,6 @@
+F:\Softuni\simple calcultions\simple calculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+F:\Softuni\simple calcultions\simple calculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+F:\Softuni\simple calcultions\simple calculations\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+F:\Softuni\simple calcultions\simple calculations\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+F:\Softuni\simple calcultions\simple calculations\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+F:\Softuni\simple calcultions\simple calculations\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
