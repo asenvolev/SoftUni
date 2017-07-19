@@ -1,0 +1,2 @@
+F:\Softuni\Simple conditional statements\SimpleConditionalStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Softuni\Simple conditional statements\SimpleConditionalStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
