@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\SortNumbers\bin\Debug\SortNumbers.exe.config

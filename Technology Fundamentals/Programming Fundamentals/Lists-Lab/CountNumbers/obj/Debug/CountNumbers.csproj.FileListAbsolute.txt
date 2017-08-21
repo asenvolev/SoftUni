@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\CountNumbers\bin\Debug\CountNumbers.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\CountNumbers\bin\Debug\CountNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\CountNumbers\bin\Debug\CountNumbers.pdb
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\CountNumbers\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\CountNumbers\obj\Debug\CountNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\CountNumbers\obj\Debug\CountNumbers.pdb

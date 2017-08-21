@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\Lists-Lab\SquareNumbers\bin\Debug\SquareNumbers.exe.config
