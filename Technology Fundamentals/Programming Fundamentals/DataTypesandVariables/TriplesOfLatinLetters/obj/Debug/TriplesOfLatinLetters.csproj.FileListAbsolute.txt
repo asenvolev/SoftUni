@@ -1,0 +1,5 @@
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

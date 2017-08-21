@@ -1,0 +1,6 @@
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+F:\Softuni\Exams\Exam - 18 Dec 2016\DataTypesandVariables\SpecialNumbers\obj\Debug\SpecialNumbers.pdb
