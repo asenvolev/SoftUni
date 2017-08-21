@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\Arrays-Exercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Arrays-Exercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+F:\Softuni\C# projects\Programing fundamentals\Arrays-Exercises\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+F:\Softuni\C# projects\Programing fundamentals\Arrays-Exercises\IndexOfLetters\obj\Debug\IndexOfLetters.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\Arrays-Exercises\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+F:\Softuni\C# projects\Programing fundamentals\Arrays-Exercises\IndexOfLetters\obj\Debug\IndexOfLetters.pdb
