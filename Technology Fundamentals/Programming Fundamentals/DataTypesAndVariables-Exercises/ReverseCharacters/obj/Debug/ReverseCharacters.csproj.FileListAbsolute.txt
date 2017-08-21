@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

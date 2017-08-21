@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

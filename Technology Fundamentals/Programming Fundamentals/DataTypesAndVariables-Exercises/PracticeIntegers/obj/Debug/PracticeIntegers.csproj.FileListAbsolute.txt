@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\PracticeIntegers\bin\Debug\PracticeIntegers.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\PracticeIntegers\bin\Debug\PracticeIntegers.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\PracticeIntegers\bin\Debug\PracticeIntegers.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\PracticeIntegers\obj\Debug\PracticeIntegers.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\PracticeIntegers\obj\Debug\PracticeIntegers.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\PracticeIntegers\obj\Debug\PracticeIntegers.pdb

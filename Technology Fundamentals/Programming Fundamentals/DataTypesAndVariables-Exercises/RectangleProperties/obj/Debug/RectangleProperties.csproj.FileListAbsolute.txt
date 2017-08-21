@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\RectangleProperties\bin\Debug\RectangleProperties.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\RectangleProperties\bin\Debug\RectangleProperties.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\RectangleProperties\obj\Debug\RectangleProperties.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\RectangleProperties\obj\Debug\RectangleProperties.pdb
