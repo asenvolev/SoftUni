@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\OddOccurrences\bin\Debug\OddOccurrences.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\OddOccurrences\bin\Debug\OddOccurrences.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\OddOccurrences\bin\Debug\OddOccurrences.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\OddOccurrences\obj\Debug\OddOccurrences.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\OddOccurrences\obj\Debug\OddOccurrences.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\OddOccurrences\obj\Debug\OddOccurrences.csprojResolveAssemblyReference.cache

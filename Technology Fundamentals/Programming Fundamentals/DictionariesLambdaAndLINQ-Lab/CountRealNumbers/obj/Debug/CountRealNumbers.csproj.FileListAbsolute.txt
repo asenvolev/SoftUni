@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

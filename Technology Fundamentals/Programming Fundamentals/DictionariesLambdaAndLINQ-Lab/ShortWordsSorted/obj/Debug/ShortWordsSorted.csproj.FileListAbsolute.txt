@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\ShortWordsSorted\obj\Debug\ShortWordsSorted.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Lab\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb
