@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\Arrays\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.exe.config
