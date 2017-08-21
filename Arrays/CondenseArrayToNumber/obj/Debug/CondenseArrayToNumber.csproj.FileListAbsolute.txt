@@ -1,9 +1,0 @@
-F:\Softuni\C# projects\Programing fundamentals\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
-F:\Softuni\C# projects\Programing fundamentals\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
-F:\Softuni\C# projects\Programing fundamentals\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
-F:\Softuni\C# projects\Programing fundamentals\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csprojResolveAssemblyReference.cache
-F:\Softuni\C# projects\Programing fundamentals\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
-F:\Softuni\C# projects\Programing fundamentals\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb
-F:\Softuni\Tech Module\Programing fundamentals\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
-F:\Softuni\Tech Module\Programing fundamentals\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
-F:\Softuni\Tech Module\Programing fundamentals\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb
