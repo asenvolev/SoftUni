@@ -1,0 +1,8 @@
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\bin\Debug\WordCount.exe.config
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\bin\Debug\Words.txt
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\bin\Debug\WordCount.exe
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\bin\Debug\WordCount.pdb
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\obj\Debug\WordCount.exe
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\obj\Debug\WordCount.pdb
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\WordCount\bin\Debug\Input.txt

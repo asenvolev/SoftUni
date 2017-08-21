@@ -1,0 +1,7 @@
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\OddLines\bin\Debug\OddLines.exe.config
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\OddLines\bin\Debug\OddLines.exe
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\OddLines\bin\Debug\OddLines.pdb
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\OddLines\obj\Debug\OddLines.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\OddLines\obj\Debug\OddLines.exe
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\OddLines\obj\Debug\OddLines.pdb
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\OddLines\bin\Debug\Input.txt

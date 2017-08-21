@@ -1,0 +1,7 @@
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\LineNumbers\bin\Debug\LineNumbers.exe.config
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\LineNumbers\bin\Debug\Input.txt
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\LineNumbers\bin\Debug\LineNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\LineNumbers\bin\Debug\LineNumbers.pdb
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\LineNumbers\obj\Debug\LineNumbers.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\LineNumbers\obj\Debug\LineNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\FilesndDirectories-Lab\LineNumbers\obj\Debug\LineNumbers.pdb
