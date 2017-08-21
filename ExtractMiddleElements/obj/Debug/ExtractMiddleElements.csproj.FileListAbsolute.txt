@@ -1,1 +1,0 @@
-F:\Softuni\C# projects\Programing fundamentals\Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe.config

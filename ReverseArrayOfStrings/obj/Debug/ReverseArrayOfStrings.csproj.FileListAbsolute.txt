@@ -1,6 +1,0 @@
-F:\Softuni\C# projects\Programing fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe.config
-F:\Softuni\C# projects\Programing fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe
-F:\Softuni\C# projects\Programing fundamentals\Arrays\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.pdb
-F:\Softuni\C# projects\Programing fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.csprojResolveAssemblyReference.cache
-F:\Softuni\C# projects\Programing fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.exe
-F:\Softuni\C# projects\Programing fundamentals\Arrays\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.pdb
