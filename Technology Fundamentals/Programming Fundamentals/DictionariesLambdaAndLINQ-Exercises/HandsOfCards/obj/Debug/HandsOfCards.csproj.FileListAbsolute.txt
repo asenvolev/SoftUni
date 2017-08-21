@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\HandsOfCards\bin\Debug\HandsOfCards.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\HandsOfCards\bin\Debug\HandsOfCards.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\HandsOfCards\obj\Debug\HandsOfCards.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\HandsOfCards\obj\Debug\HandsOfCards.pdb

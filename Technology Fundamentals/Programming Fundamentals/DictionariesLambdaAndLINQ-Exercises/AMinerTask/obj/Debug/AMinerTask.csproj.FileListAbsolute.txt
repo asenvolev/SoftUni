@@ -1,0 +1,9 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\bin\Debug\AMinerTask.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\bin\Debug\AMinerTask.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\bin\Debug\AMinerTask.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\obj\Debug\AMinerTask.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\obj\Debug\AMinerTask.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\obj\Debug\AMinerTask.pdb
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\bin\Debug\AMinerTask.exe.config
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\obj\Debug\AMinerTask.exe
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\AMinerTask\obj\Debug\AMinerTask.pdb

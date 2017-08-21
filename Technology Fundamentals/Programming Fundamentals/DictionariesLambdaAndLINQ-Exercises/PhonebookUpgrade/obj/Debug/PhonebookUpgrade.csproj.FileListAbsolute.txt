@@ -1,0 +1,9 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.pdb
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe.config
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.exe
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.pdb

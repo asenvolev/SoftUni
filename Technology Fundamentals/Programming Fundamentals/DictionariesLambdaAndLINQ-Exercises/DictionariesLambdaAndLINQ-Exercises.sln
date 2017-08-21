@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{9665F86E-D134-49EF-89CD-4B391F7171BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonebookUpgrade", "PhonebookUpgrade\PhonebookUpgrade.csproj", "{7FF64701-2FAE-4F4C-99F6-595AD3E9E857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMinerTask", "AMinerTask\AMinerTask.csproj", "{347105A8-F932-4950-8697-2CB5E2A31909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixEmails", "FixEmails\FixEmails.csproj", "{C07B3AEA-BB27-440F-9480-851B77A20955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOfCards", "HandsOfCards\HandsOfCards.csproj", "{53B415D1-0302-4199-AA65-4F9E98E6E0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLogs", "UserLogs\UserLogs.csproj", "{39193AF6-FD22-47E4-AE0E-395E4B7BFA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9665F86E-D134-49EF-89CD-4B391F7171BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9665F86E-D134-49EF-89CD-4B391F7171BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9665F86E-D134-49EF-89CD-4B391F7171BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9665F86E-D134-49EF-89CD-4B391F7171BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF64701-2FAE-4F4C-99F6-595AD3E9E857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF64701-2FAE-4F4C-99F6-595AD3E9E857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF64701-2FAE-4F4C-99F6-595AD3E9E857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF64701-2FAE-4F4C-99F6-595AD3E9E857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347105A8-F932-4950-8697-2CB5E2A31909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347105A8-F932-4950-8697-2CB5E2A31909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347105A8-F932-4950-8697-2CB5E2A31909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347105A8-F932-4950-8697-2CB5E2A31909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07B3AEA-BB27-440F-9480-851B77A20955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07B3AEA-BB27-440F-9480-851B77A20955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07B3AEA-BB27-440F-9480-851B77A20955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07B3AEA-BB27-440F-9480-851B77A20955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B415D1-0302-4199-AA65-4F9E98E6E0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B415D1-0302-4199-AA65-4F9E98E6E0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B415D1-0302-4199-AA65-4F9E98E6E0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B415D1-0302-4199-AA65-4F9E98E6E0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39193AF6-FD22-47E4-AE0E-395E4B7BFA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39193AF6-FD22-47E4-AE0E-395E4B7BFA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39193AF6-FD22-47E4-AE0E-395E4B7BFA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39193AF6-FD22-47E4-AE0E-395E4B7BFA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

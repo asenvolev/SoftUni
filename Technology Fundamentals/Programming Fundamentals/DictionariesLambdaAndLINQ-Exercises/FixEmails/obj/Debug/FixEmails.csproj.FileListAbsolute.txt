@@ -1,0 +1,8 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\bin\Debug\FixEmails.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\bin\Debug\FixEmails.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\bin\Debug\FixEmails.pdb
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\obj\Debug\FixEmails.exe
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\obj\Debug\FixEmails.pdb
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\bin\Debug\FixEmails.exe.config
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\obj\Debug\FixEmails.exe
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\FixEmails\obj\Debug\FixEmails.pdb

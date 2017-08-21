@@ -1,0 +1,2 @@
+F:\Softuni\C# projects\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\UserLogs\bin\Debug\UserLogs.exe.config
+F:\Softuni\Tech Module\Programing fundamentals\DictionariesLambdaAndLINQ-Exercises\UserLogs\bin\Debug\UserLogs.exe.config
