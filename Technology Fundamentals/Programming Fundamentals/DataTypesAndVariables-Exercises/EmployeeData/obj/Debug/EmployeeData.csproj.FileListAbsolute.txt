@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\EmployeeData\bin\Debug\EmployeeData.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\EmployeeData\bin\Debug\EmployeeData.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\EmployeeData\bin\Debug\EmployeeData.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\EmployeeData\obj\Debug\EmployeeData.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\EmployeeData\obj\Debug\EmployeeData.pdb

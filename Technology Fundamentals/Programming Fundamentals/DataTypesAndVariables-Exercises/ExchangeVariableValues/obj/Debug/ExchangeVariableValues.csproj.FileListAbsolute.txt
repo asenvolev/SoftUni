@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache

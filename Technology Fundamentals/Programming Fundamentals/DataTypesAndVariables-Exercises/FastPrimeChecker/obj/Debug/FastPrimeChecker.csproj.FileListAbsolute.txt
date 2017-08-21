@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe.config
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\FastPrimeChecker\bin\Debug\FastPrimeChecker.pdb
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\FastPrimeChecker\obj\Debug\FastPrimeChecker.exe
+F:\Softuni\C# projects\Programing fundamentals\DataTypesAndVariables-Exercises\FastPrimeChecker\obj\Debug\FastPrimeChecker.pdb
