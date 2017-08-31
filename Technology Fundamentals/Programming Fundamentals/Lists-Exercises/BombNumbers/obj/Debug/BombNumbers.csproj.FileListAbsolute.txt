@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\Lists-Exercises\BombNumbers\bin\Debug\BombNumbers.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Lists-Exercises\BombNumbers\bin\Debug\BombNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\Lists-Exercises\BombNumbers\bin\Debug\BombNumbers.pdb
+F:\Softuni\C# projects\Programing fundamentals\Lists-Exercises\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\Lists-Exercises\BombNumbers\obj\Debug\BombNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\Lists-Exercises\BombNumbers\obj\Debug\BombNumbers.pdb
