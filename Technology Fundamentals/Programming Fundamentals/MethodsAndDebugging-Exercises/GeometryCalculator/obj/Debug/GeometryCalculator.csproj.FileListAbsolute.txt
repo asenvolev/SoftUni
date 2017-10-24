@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
