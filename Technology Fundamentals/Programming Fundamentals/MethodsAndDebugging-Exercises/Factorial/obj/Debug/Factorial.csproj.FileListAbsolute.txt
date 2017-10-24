@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\Factorial\bin\Debug\Factorial.exe.config
