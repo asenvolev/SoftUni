@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\Fibonacci\bin\Debug\Fibonacci.exe.config
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\Fibonacci\bin\Debug\Fibonacci.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\Fibonacci\bin\Debug\Fibonacci.pdb
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\Fibonacci\obj\Debug\Fibonacci.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\Fibonacci\obj\Debug\Fibonacci.pdb
