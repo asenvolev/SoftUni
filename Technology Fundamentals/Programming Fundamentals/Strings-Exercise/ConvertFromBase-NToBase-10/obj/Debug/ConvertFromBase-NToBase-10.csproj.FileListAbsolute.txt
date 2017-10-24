@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.pdb
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\ConvertFromBase-NToBase-10\obj\Debug\ConvertFromBase-NToBase-10.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\ConvertFromBase-NToBase-10\obj\Debug\ConvertFromBase-NToBase-10.pdb
