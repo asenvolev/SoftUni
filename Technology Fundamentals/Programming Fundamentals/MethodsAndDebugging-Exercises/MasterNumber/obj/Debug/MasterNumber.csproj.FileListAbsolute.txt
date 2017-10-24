@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\MasterNumber\bin\Debug\MasterNumber.exe.config
