@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\TeamworkProjects\bin\Debug\TeamworkProjects.exe.config
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\TeamworkProjects\obj\Debug\TeamworkProjects.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\TeamworkProjects\bin\Debug\TeamworkProjects.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\TeamworkProjects\bin\Debug\TeamworkProjects.pdb
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\TeamworkProjects\obj\Debug\TeamworkProjects.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\TeamworkProjects\obj\Debug\TeamworkProjects.pdb
