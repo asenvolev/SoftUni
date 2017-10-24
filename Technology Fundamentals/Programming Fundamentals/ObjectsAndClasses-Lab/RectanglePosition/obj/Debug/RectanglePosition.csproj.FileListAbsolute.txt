@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\RectanglePosition\bin\Debug\RectanglePosition.exe.config
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\RectanglePosition\bin\Debug\RectanglePosition.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\RectanglePosition\bin\Debug\RectanglePosition.pdb
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\RectanglePosition\obj\Debug\RectanglePosition.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\RectanglePosition\obj\Debug\RectanglePosition.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\RectanglePosition\obj\Debug\RectanglePosition.pdb
