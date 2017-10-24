@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\MathPower\bin\Debug\MathPower.exe.config
