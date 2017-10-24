@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\Strings\TextFilter\bin\Debug\TextFilter.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Strings\TextFilter\bin\Debug\TextFilter.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings\TextFilter\bin\Debug\TextFilter.pdb
+F:\Softuni\C# projects\Programing fundamentals\Strings\TextFilter\obj\Debug\TextFilter.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\Strings\TextFilter\obj\Debug\TextFilter.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings\TextFilter\obj\Debug\TextFilter.pdb

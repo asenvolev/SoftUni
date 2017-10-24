@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\Strings\ReverseString\bin\Debug\ReverseString.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Strings\ReverseString\bin\Debug\ReverseString.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings\ReverseString\bin\Debug\ReverseString.pdb
+F:\Softuni\C# projects\Programing fundamentals\Strings\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\Strings\ReverseString\obj\Debug\ReverseString.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings\ReverseString\obj\Debug\ReverseString.pdb
