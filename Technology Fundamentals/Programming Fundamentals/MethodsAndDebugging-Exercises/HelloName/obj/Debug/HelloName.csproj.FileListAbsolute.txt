@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\HelloName\bin\Debug\HelloName.exe.config
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\HelloName\bin\Debug\HelloName.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\HelloName\bin\Debug\HelloName.pdb
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\HelloName\obj\Debug\HelloName.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\HelloName\obj\Debug\HelloName.pdb
