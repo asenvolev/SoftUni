@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe.config
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.pdb
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.pdb
