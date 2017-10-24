@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.pdb
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.pdb

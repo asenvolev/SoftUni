@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\SumBigNumbers\bin\Debug\SumBigNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\SumBigNumbers\bin\Debug\SumBigNumbers.pdb
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\SumBigNumbers\obj\Debug\SumBigNumbers.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\SumBigNumbers\obj\Debug\SumBigNumbers.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\SumBigNumbers\obj\Debug\SumBigNumbers.pdb

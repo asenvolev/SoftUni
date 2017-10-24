@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+F:\Softuni\C# projects\Programing fundamentals\Strings-Exercise\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb
