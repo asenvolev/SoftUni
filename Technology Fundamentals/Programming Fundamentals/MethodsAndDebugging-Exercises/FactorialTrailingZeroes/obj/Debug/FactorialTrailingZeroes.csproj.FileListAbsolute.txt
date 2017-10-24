@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
