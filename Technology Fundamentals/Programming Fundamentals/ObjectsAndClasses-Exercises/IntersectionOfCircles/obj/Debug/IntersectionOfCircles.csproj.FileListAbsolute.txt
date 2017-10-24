@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe.config
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.pdb
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.pdb
