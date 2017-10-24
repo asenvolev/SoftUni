@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe.config
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.pdb
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.exe
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.pdb
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
