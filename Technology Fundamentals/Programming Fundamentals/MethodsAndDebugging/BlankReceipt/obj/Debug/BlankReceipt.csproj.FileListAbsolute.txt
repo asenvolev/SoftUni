@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\BlankReceipt\bin\Debug\BlankReceipt.exe.config
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\BlankReceipt\bin\Debug\BlankReceipt.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\BlankReceipt\bin\Debug\BlankReceipt.pdb
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\BlankReceipt\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\BlankReceipt\obj\Debug\BlankReceipt.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\BlankReceipt\obj\Debug\BlankReceipt.pdb
