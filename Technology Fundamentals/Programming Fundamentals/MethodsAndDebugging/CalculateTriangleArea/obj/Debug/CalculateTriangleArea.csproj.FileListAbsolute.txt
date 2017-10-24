@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
