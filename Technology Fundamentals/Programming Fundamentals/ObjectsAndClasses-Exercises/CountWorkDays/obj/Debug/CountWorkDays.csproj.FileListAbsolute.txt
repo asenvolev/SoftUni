@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\CountWorkDays\bin\Debug\CountWorkDays.exe.config
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\CountWorkDays\bin\Debug\CountWorkDays.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\CountWorkDays\bin\Debug\CountWorkDays.pdb
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\CountWorkDays\obj\Debug\CountWorkDays.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\CountWorkDays\obj\Debug\CountWorkDays.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\CountWorkDays\obj\Debug\CountWorkDays.pdb
