@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\PrimeChecker\bin\Debug\PrimeChecker.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\PrimeChecker\bin\Debug\PrimeChecker.pdb
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\PrimeChecker\obj\Debug\PrimeChecker.exe
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\PrimeChecker\obj\Debug\PrimeChecker.pdb
