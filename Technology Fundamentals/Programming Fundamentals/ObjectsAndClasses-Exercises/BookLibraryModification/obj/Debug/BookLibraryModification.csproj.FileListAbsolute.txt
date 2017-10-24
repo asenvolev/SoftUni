@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\BookLibraryModification\bin\Debug\BookLibraryModification.exe.config
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\BookLibraryModification\bin\Debug\BookLibraryModification.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\BookLibraryModification\bin\Debug\BookLibraryModification.pdb
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\BookLibraryModification\obj\Debug\BookLibraryModification.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\BookLibraryModification\obj\Debug\BookLibraryModification.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\BookLibraryModification\obj\Debug\BookLibraryModification.pdb
