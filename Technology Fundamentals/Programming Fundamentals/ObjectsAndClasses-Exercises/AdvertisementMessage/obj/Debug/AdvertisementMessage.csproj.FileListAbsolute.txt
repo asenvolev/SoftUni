@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Exercises\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb
