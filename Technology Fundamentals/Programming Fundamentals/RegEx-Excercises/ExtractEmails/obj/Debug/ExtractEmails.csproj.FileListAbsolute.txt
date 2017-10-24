@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractEmails\bin\Debug\ExtractEmails.exe
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractEmails\bin\Debug\ExtractEmails.pdb
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractEmails\obj\Debug\ExtractEmails.exe
+F:\Softuni\C# projects\Programing fundamentals\RegEx-Excercises\ExtractEmails\obj\Debug\ExtractEmails.pdb
