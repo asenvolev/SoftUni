@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe.config
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.pdb
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.exe
+F:\Softuni\C# projects\Programing fundamentals\ObjectsAndClasses-Lab\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.pdb
