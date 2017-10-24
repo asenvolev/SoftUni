@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe.config
