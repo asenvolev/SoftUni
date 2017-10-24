@@ -1,0 +1,1 @@
+F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging-Exercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
