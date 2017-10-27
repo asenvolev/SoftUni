@@ -1,1 +1,2 @@
 F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\MathPower\bin\Debug\MathPower.exe.config
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\MathPower\bin\Debug\MathPower.exe.config
