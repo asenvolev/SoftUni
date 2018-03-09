@@ -1,0 +1,2 @@
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SemanticHTML\bin\Debug\SemanticHTML.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\SemanticHTML\bin\Debug\SemanticHTML.exe.config

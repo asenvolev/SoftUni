@@ -1,0 +1,9 @@
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\ReplaceATag\bin\Debug\ReplaceATag.exe
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\ReplaceATag\bin\Debug\ReplaceATag.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\ReplaceATag\obj\Debug\ReplaceATag.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\ReplaceATag\obj\Debug\ReplaceATag.exe
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\ReplaceATag\obj\Debug\ReplaceATag.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\ReplaceATag\obj\Debug\ReplaceATag.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\ReplaceATag\obj\Debug\ReplaceATag.pdb

@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidTime\bin\Debug\ValidTime.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidTime\bin\Debug\ValidTime.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidTime\bin\Debug\ValidTime.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidTime\obj\Debug\ValidTime.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidTime\obj\Debug\ValidTime.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ValidTime\bin\Debug\ValidTime.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ValidTime\obj\Debug\ValidTime.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ValidTime\obj\Debug\ValidTime.pdb

@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

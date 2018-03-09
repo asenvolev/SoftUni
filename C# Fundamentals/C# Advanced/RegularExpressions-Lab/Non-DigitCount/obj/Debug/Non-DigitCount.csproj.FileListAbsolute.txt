@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\RegularExpressions-Lab\Non-DigitCount\bin\Debug\Non-DigitCount.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Lab\Non-DigitCount\bin\Debug\Non-DigitCount.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\Non-DigitCount\bin\Debug\Non-DigitCount.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Lab\Non-DigitCount\obj\Debug\Non-DigitCount.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\Non-DigitCount\obj\Debug\Non-DigitCount.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\Non-DigitCount\bin\Debug\Non-DigitCount.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\Non-DigitCount\obj\Debug\Non-DigitCount.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\Non-DigitCount\obj\Debug\Non-DigitCount.pdb

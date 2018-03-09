@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\RegularExpressions-Lab\VowelCount\bin\Debug\VowelCount.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Lab\VowelCount\bin\Debug\VowelCount.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\VowelCount\bin\Debug\VowelCount.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Lab\VowelCount\obj\Debug\VowelCount.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\VowelCount\obj\Debug\VowelCount.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\VowelCount\bin\Debug\VowelCount.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\VowelCount\obj\Debug\VowelCount.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\VowelCount\obj\Debug\VowelCount.pdb

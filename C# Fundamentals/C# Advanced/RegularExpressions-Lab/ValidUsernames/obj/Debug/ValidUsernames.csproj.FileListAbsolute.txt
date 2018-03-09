@@ -1,0 +1,9 @@
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidUsernames\bin\Debug\ValidUsernames.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidUsernames\bin\Debug\ValidUsernames.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidUsernames\obj\Debug\ValidUsernames.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidUsernames\obj\Debug\ValidUsernames.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ValidUsernames\obj\Debug\ValidUsernames.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ValidUsernames\obj\Debug\ValidUsernames.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ValidUsernames\obj\Debug\ValidUsernames.pdb

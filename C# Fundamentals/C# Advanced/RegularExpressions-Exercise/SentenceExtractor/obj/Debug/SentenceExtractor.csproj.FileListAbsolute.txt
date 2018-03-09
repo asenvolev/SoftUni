@@ -1,0 +1,9 @@
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\bin\Debug\SentenceExtractor.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\bin\Debug\SentenceExtractor.exe
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\bin\Debug\SentenceExtractor.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\obj\Debug\SentenceExtractor.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\obj\Debug\SentenceExtractor.exe
+F:\Softuni\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\obj\Debug\SentenceExtractor.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\bin\Debug\SentenceExtractor.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\obj\Debug\SentenceExtractor.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Exercise\SentenceExtractor\obj\Debug\SentenceExtractor.pdb

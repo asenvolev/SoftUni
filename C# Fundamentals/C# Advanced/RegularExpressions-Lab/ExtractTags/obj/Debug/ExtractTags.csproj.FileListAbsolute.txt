@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ExtractTags\bin\Debug\ExtractTags.exe.config
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ExtractTags\bin\Debug\ExtractTags.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ExtractTags\bin\Debug\ExtractTags.pdb
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ExtractTags\obj\Debug\ExtractTags.exe
+F:\Softuni\C#Advanced\RegularExpressions-Lab\ExtractTags\obj\Debug\ExtractTags.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ExtractTags\bin\Debug\ExtractTags.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ExtractTags\obj\Debug\ExtractTags.exe
+F:\Softuni\C#Fundamentals\C#Advanced\RegularExpressions-Lab\ExtractTags\obj\Debug\ExtractTags.pdb
