@@ -1,0 +1,9 @@
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues-Excercise\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb

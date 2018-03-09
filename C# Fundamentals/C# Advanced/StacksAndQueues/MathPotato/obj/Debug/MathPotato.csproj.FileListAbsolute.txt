@@ -1,0 +1,3 @@
+F:\Softuni\C#Advanced\StacksAndQueues\MathPotato\bin\Debug\MathPotato.exe.config
+F:\Softuni\C# projects\C#Advanced\StacksAndQueues\MathPotato\bin\Debug\MathPotato.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues\MathPotato\bin\Debug\MathPotato.exe.config

@@ -1,0 +1,6 @@
+F:\Softuni\C#Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+F:\Softuni\C#Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+F:\Softuni\C#Advanced\StacksAndQueues\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+F:\Softuni\C#Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\BasicStackOperations.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+F:\Softuni\C#Advanced\StacksAndQueues\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

@@ -1,0 +1,11 @@
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+F:\Softuni\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\obj\Debug\BasicStackOperations.pdb
+F:\Softuni\C# projects\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+F:\Softuni\C# projects\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+F:\Softuni\C# projects\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\obj\Debug\BasicStackOperations.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues-Excercise\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

@@ -1,0 +1,3 @@
+F:\Softuni\C#Advanced\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.exe.config
+F:\Softuni\C# projects\C#Advanced\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.exe.config
