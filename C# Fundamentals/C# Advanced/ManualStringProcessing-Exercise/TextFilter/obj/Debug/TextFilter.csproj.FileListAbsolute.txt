@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\TextFilter\bin\Debug\TextFilter.exe.config
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\TextFilter\bin\Debug\TextFilter.exe
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\TextFilter\bin\Debug\TextFilter.pdb
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\TextFilter\obj\Debug\TextFilter.exe
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\TextFilter\obj\Debug\TextFilter.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\TextFilter\bin\Debug\TextFilter.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\TextFilter\obj\Debug\TextFilter.exe
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\TextFilter\obj\Debug\TextFilter.pdb

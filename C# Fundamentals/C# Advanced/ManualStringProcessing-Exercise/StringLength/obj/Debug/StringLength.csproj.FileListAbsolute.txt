@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\StringLength\bin\Debug\StringLength.exe.config
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\StringLength\bin\Debug\StringLength.exe
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\StringLength\bin\Debug\StringLength.pdb
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\StringLength\obj\Debug\StringLength.exe
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\StringLength\obj\Debug\StringLength.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\StringLength\bin\Debug\StringLength.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\StringLength\obj\Debug\StringLength.exe
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\StringLength\obj\Debug\StringLength.pdb

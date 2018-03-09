@@ -1,0 +1,9 @@
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\ReverseString\bin\Debug\ReverseString.exe.config
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\ReverseString\bin\Debug\ReverseString.exe
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\ReverseString\bin\Debug\ReverseString.pdb
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\ReverseString\obj\Debug\ReverseString.exe
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\ReverseString\obj\Debug\ReverseString.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\ReverseString\bin\Debug\ReverseString.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\ReverseString\obj\Debug\ReverseString.exe
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\ReverseString\obj\Debug\ReverseString.pdb

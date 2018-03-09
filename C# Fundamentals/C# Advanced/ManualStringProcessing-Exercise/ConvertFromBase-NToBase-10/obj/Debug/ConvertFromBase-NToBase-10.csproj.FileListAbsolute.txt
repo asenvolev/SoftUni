@@ -1,0 +1,2 @@
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.exe.config

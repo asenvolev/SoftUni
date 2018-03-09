@@ -1,0 +1,2 @@
+F:\Softuni\C#Advanced\ManualStringProcessing-Exercise\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\ManualStringProcessing-Exercise\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe.config
