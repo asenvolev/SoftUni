@@ -4,3 +4,10 @@ F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\PriceChangeAl
 F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\PriceChangeAlert\obj\Debug\PriceChangeAlert.csprojResolveAssemblyReference.cache
 F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\PriceChangeAlert\obj\Debug\PriceChangeAlert.exe
 F:\Softuni\C# projects\Programing fundamentals\MethodsAndDebugging\PriceChangeAlert\obj\Debug\PriceChangeAlert.pdb
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe.config
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\PriceChangeAlert\bin\Debug\PriceChangeAlert.pdb
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\PriceChangeAlert\obj\Debug\PriceChangeAlert.csprojResolveAssemblyReference.cache
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.CoreCompileInputs.cache
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\PriceChangeAlert\obj\Debug\PriceChangeAlert.exe
+F:\TVOITA MAIKAA MRUSNAAA\SoftUni\Technology Fundamentals\Programming Fundamentals\MethodsAndDebugging\PriceChangeAlert\obj\Debug\PriceChangeAlert.pdb

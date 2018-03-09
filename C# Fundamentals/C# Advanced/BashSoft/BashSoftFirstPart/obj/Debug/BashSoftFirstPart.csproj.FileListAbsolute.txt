@@ -1,0 +1,18 @@
+F:\Softuni\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.exe.config
+F:\Softuni\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.exe
+F:\Softuni\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.pdb
+F:\Softuni\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.exe
+F:\Softuni\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.pdb
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.exe.config
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.exe
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.pdb
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.exe
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.pdb
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoftFirstPart\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoft\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.exe.config
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoft\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.exe
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoft\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.pdb
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoft\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.exe
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoft\BashSoftFirstPart\bin\Debug\BashSoftFirstPart.pdb
+F:\Softuni\C# projects\C#Advanced\BashSoft-FirstWeek\BashSoft\BashSoftFirstPart\obj\Debug\BashSoftFirstPart.csprojResolveAssemblyReference.cache
