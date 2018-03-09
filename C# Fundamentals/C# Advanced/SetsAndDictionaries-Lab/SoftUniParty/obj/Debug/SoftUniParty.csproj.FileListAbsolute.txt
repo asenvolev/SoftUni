@@ -1,0 +1,12 @@
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\bin\Debug\SoftUniParty.exe.config
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\bin\Debug\SoftUniParty.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\bin\Debug\SoftUniParty.pdb
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\obj\Debug\SoftUniParty.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\obj\Debug\SoftUniParty.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\obj\Debug\SoftUniParty.pdb
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\bin\Debug\SoftUniParty.exe.config
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\obj\Debug\SoftUniParty.exe
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\obj\Debug\SoftUniParty.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\bin\Debug\SoftUniParty.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\obj\Debug\SoftUniParty.exe
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Lab\SoftUniParty\obj\Debug\SoftUniParty.pdb

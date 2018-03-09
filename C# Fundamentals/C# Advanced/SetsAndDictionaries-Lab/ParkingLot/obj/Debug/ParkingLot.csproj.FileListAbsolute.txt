@@ -1,0 +1,12 @@
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\bin\Debug\ParkingLot.exe.config
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\obj\Debug\ParkingLot.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\bin\Debug\ParkingLot.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\bin\Debug\ParkingLot.pdb
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\obj\Debug\ParkingLot.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\obj\Debug\ParkingLot.pdb
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\bin\Debug\ParkingLot.exe.config
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\obj\Debug\ParkingLot.exe
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\obj\Debug\ParkingLot.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\bin\Debug\ParkingLot.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\obj\Debug\ParkingLot.exe
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Lab\ParkingLot\obj\Debug\ParkingLot.pdb

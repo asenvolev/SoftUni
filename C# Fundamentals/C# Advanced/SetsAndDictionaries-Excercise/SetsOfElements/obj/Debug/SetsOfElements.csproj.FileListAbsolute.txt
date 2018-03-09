@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\bin\Debug\SetsOfElements.exe.config
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\bin\Debug\SetsOfElements.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\bin\Debug\SetsOfElements.pdb
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\obj\Debug\SetsOfElements.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\obj\Debug\SetsOfElements.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\bin\Debug\SetsOfElements.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\obj\Debug\SetsOfElements.exe
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\SetsOfElements\obj\Debug\SetsOfElements.pdb

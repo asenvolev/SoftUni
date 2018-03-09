@@ -1,0 +1,14 @@
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\bin\Debug\AMiner'sTask.exe.config
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\bin\Debug\AMiner'sTask.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\bin\Debug\AMiner'sTask.pdb
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\obj\Debug\AMiner'sTask.exe
+F:\Softuni\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\obj\Debug\AMiner'sTask.pdb
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\bin\Debug\AMiner'sTask.exe.config
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\obj\Debug\AMiner'sTask.exe
+F:\Softuni\C# projects\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\obj\Debug\AMiner'sTask.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\bin\Debug\AMiner'sTask.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\obj\Debug\AMiner'sTask.exe
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\obj\Debug\AMiner'sTask.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\bin\Debug\AMiner'sTask.exe
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\bin\Debug\AMiner'sTask.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\SetsAndDictionaries-Excercise\AMiner'sTask\obj\Debug\AMiner'sTask.csprojResolveAssemblyReference.cache
