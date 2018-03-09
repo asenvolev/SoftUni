@@ -1,0 +1,9 @@
+F:\Softuni\C#Advanced\Matrices-Exercise\SquaresInMatrix\bin\Debug\SquaresInMatrix.exe.config
+F:\Softuni\C#Advanced\Matrices-Exercise\SquaresInMatrix\bin\Debug\SquaresInMatrix.exe
+F:\Softuni\C#Advanced\Matrices-Exercise\SquaresInMatrix\bin\Debug\SquaresInMatrix.pdb
+F:\Softuni\C#Advanced\Matrices-Exercise\SquaresInMatrix\obj\Debug\SquaresInMatrix.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\Matrices-Exercise\SquaresInMatrix\obj\Debug\SquaresInMatrix.exe
+F:\Softuni\C#Advanced\Matrices-Exercise\SquaresInMatrix\obj\Debug\SquaresInMatrix.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\Matrices-Exercise\SquaresInMatrix\bin\Debug\SquaresInMatrix.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\Matrices-Exercise\SquaresInMatrix\obj\Debug\SquaresInMatrix.exe
+F:\Softuni\C#Fundamentals\C#Advanced\Matrices-Exercise\SquaresInMatrix\obj\Debug\SquaresInMatrix.pdb

@@ -1,0 +1,9 @@
+F:\Softuni\C#Advanced\Matrices-Exercise\RadioactiveBunnies\bin\Debug\RadioactiveBunnies.exe.config
+F:\Softuni\C#Advanced\Matrices-Exercise\RadioactiveBunnies\bin\Debug\RadioactiveBunnies.exe
+F:\Softuni\C#Advanced\Matrices-Exercise\RadioactiveBunnies\bin\Debug\RadioactiveBunnies.pdb
+F:\Softuni\C#Advanced\Matrices-Exercise\RadioactiveBunnies\obj\Debug\RadioactiveBunnies.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\Matrices-Exercise\RadioactiveBunnies\obj\Debug\RadioactiveBunnies.exe
+F:\Softuni\C#Advanced\Matrices-Exercise\RadioactiveBunnies\obj\Debug\RadioactiveBunnies.pdb
+F:\Softuni\C#Fundamentals\C#Advanced\Matrices-Exercise\RadioactiveBunnies\bin\Debug\RadioactiveBunnies.exe.config
+F:\Softuni\C#Fundamentals\C#Advanced\Matrices-Exercise\RadioactiveBunnies\obj\Debug\RadioactiveBunnies.exe
+F:\Softuni\C#Fundamentals\C#Advanced\Matrices-Exercise\RadioactiveBunnies\obj\Debug\RadioactiveBunnies.pdb
