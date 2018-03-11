@@ -1,0 +1,5 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encaplsulation-Lab\Salary\bin\Debug\Salary.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encaplsulation-Lab\Salary\bin\Debug\Salary.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encaplsulation-Lab\Salary\bin\Debug\Salary.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encaplsulation-Lab\Salary\obj\Debug\Salary.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encaplsulation-Lab\Salary\obj\Debug\Salary.pdb

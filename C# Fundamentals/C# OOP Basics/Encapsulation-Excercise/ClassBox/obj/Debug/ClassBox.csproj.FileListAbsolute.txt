@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encapsulation-Excercise\ClassBox\bin\Debug\ClassBox.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encapsulation-Excercise\ClassBox\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encapsulation-Excercise\ClassBox\bin\Debug\ClassBox.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encapsulation-Excercise\ClassBox\bin\Debug\ClassBox.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encapsulation-Excercise\ClassBox\obj\Debug\ClassBox.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Encapsulation-Excercise\ClassBox\obj\Debug\ClassBox.pdb
