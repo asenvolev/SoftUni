@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.pdb

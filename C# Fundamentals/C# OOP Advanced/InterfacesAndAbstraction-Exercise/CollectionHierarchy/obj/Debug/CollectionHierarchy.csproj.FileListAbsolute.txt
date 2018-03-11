@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\CollectionHierarchy\bin\Debug\CollectionHierarchy.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\CollectionHierarchy\bin\Debug\CollectionHierarchy.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\CollectionHierarchy\bin\Debug\CollectionHierarchy.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\CollectionHierarchy\obj\Debug\CollectionHierarchy.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\CollectionHierarchy\obj\Debug\CollectionHierarchy.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\CollectionHierarchy\obj\Debug\CollectionHierarchy.pdb

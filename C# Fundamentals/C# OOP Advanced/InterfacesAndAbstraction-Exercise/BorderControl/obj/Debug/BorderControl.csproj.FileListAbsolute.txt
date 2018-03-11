@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\BorderControl.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\BorderControl.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\BorderControl\bin\Debug\BorderControl.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\BorderControl.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\BorderControl.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\BorderControl\obj\Debug\BorderControl.pdb

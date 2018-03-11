@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\Ferrari.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\Ferrari.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\Ferrari.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\Ferrari.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\Ferrari.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\Ferrari.pdb
