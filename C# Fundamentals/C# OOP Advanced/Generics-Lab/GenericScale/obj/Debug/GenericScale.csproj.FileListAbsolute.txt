@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Lab\GenericScale\bin\Debug\GenericScale.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Lab\GenericScale\bin\Debug\GenericScale.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Lab\GenericScale\bin\Debug\GenericScale.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Lab\GenericScale\obj\Debug\GenericScale.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Lab\GenericScale\obj\Debug\GenericScale.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Lab\GenericScale\obj\Debug\GenericScale.pdb

@@ -1,0 +1,5 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Excercise\GenericBoxOfString\bin\Debug\GenericBoxOfString.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Excercise\GenericBoxOfString\bin\Debug\GenericBoxOfString.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Excercise\GenericBoxOfString\bin\Debug\GenericBoxOfString.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Excercise\GenericBoxOfString\obj\Debug\GenericBoxOfString.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Generics-Excercise\GenericBoxOfString\obj\Debug\GenericBoxOfString.pdb
