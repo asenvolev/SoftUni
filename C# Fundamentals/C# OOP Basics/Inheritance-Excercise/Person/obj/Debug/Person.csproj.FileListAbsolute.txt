@@ -1,0 +1,8 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\bin\Debug\Person.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\bin\Debug\Person.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\bin\Debug\Person.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\obj\Debug\Person.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\obj\Debug\Person.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\bin\Debug\Person.exe.CodeAnalysisLog.xml
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance-Excercise\Person\bin\Debug\Person.exe.lastcodeanalysissucceeded

@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\Inheritances\bin\Debug\Inheritances.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\Inheritances\obj\Debug\Inheritances.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\Inheritances\bin\Debug\Inheritances.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\Inheritances\bin\Debug\Inheritances.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\Inheritances\obj\Debug\Inheritances.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\Inheritances\obj\Debug\Inheritances.pdb

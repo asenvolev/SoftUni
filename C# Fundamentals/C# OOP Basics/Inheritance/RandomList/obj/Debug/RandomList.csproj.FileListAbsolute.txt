@@ -1,0 +1,1 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\RandomList\bin\Debug\RandomList.exe.config

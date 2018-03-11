@@ -1,0 +1,1 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\Inheritance\StackOfStrings\bin\Debug\StackOfStrings.exe.config
