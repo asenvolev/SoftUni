@@ -1,0 +1,5 @@
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\AverageOfDoubles\bin\Debug\AverageOfDoubles.exe.config
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\AverageOfDoubles\bin\Debug\AverageOfDoubles.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\AverageOfDoubles\bin\Debug\AverageOfDoubles.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\AverageOfDoubles\obj\Debug\AverageOfDoubles.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\AverageOfDoubles\obj\Debug\AverageOfDoubles.pdb

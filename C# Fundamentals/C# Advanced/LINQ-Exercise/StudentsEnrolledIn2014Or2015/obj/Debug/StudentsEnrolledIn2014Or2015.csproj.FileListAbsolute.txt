@@ -1,0 +1,8 @@
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\StudentsEnrolledIn2014Or2015\bin\Debug\StudentsEnrolledIn2014Or2015.exe.config
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\StudentsEnrolledIn2014Or2015\bin\Debug\StudentsEnrolledIn2014Or2015.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\StudentsEnrolledIn2014Or2015\bin\Debug\StudentsEnrolledIn2014Or2015.pdb
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\StudentsEnrolledIn2014Or2015\obj\Debug\StudentsEnrolledIn2014Or2015.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\StudentsEnrolledIn2014Or2015\obj\Debug\StudentsEnrolledIn2014Or2015.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Exercise\StudentsEnrolledIn2014Or2015\bin\Debug\StudentsEnrolledIn2014Or2015.exe.config
+F:\Softuni\C# projects\C#Advanced\LINQ-Exercise\StudentsEnrolledIn2014Or2015\obj\Debug\StudentsEnrolledIn2014Or2015.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Exercise\StudentsEnrolledIn2014Or2015\obj\Debug\StudentsEnrolledIn2014Or2015.pdb

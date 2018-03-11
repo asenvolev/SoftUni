@@ -1,0 +1,5 @@
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\SortStudents\bin\Debug\SortStudents.exe.config
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\SortStudents\bin\Debug\SortStudents.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\SortStudents\bin\Debug\SortStudents.pdb
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\SortStudents\obj\Debug\SortStudents.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\SortStudents\obj\Debug\SortStudents.pdb

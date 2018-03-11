@@ -1,0 +1,8 @@
+F:\Softuni\C#Advanced\LINQ-Lab\UpperStrings\bin\Debug\UpperStrings.exe.config
+F:\Softuni\C#Advanced\LINQ-Lab\UpperStrings\bin\Debug\UpperStrings.exe
+F:\Softuni\C#Advanced\LINQ-Lab\UpperStrings\bin\Debug\UpperStrings.pdb
+F:\Softuni\C#Advanced\LINQ-Lab\UpperStrings\obj\Debug\UpperStrings.exe
+F:\Softuni\C#Advanced\LINQ-Lab\UpperStrings\obj\Debug\UpperStrings.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\UpperStrings\bin\Debug\UpperStrings.exe.config
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\UpperStrings\obj\Debug\UpperStrings.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\UpperStrings\obj\Debug\UpperStrings.pdb

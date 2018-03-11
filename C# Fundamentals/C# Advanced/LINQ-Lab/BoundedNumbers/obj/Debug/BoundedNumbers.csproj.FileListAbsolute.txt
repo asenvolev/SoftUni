@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\BoundedNumbers\bin\Debug\BoundedNumbers.exe.config
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\BoundedNumbers\bin\Debug\BoundedNumbers.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\BoundedNumbers\bin\Debug\BoundedNumbers.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\BoundedNumbers\obj\Debug\BoundedNumbers.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\BoundedNumbers\obj\Debug\BoundedNumbers.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\BoundedNumbers\obj\Debug\BoundedNumbers.pdb

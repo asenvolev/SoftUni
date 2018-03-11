@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\MinEvenNumber\bin\Debug\MinEvenNumber.exe.config
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\MinEvenNumber\bin\Debug\MinEvenNumber.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\MinEvenNumber\bin\Debug\MinEvenNumber.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\MinEvenNumber\obj\Debug\MinEvenNumber.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\MinEvenNumber\obj\Debug\MinEvenNumber.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\MinEvenNumber\obj\Debug\MinEvenNumber.pdb

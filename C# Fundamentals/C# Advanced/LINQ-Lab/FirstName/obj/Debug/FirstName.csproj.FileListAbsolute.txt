@@ -1,0 +1,11 @@
+F:\Softuni\C#Advanced\LINQ-Lab\FirstName\bin\Debug\FirstName.exe.config
+F:\Softuni\C#Advanced\LINQ-Lab\FirstName\bin\Debug\FirstName.exe
+F:\Softuni\C#Advanced\LINQ-Lab\FirstName\bin\Debug\FirstName.pdb
+F:\Softuni\C#Advanced\LINQ-Lab\FirstName\obj\Debug\FirstName.exe
+F:\Softuni\C#Advanced\LINQ-Lab\FirstName\obj\Debug\FirstName.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\FirstName\bin\Debug\FirstName.exe.config
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\FirstName\obj\Debug\FirstName.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\FirstName\obj\Debug\FirstName.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\FirstName\bin\Debug\FirstName.exe
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\FirstName\bin\Debug\FirstName.pdb
+F:\Softuni\C# projects\C#Advanced\LINQ-Lab\FirstName\obj\Debug\FirstName.csprojResolveAssemblyReference.cache

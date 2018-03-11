@@ -1,0 +1,6 @@
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\FilterStudentsByEmailDomain\bin\Debug\FilterStudentsByEmailDomain.exe.config
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\FilterStudentsByEmailDomain\bin\Debug\FilterStudentsByEmailDomain.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\FilterStudentsByEmailDomain\bin\Debug\FilterStudentsByEmailDomain.pdb
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\FilterStudentsByEmailDomain\obj\Debug\FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\FilterStudentsByEmailDomain\obj\Debug\FilterStudentsByEmailDomain.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\FilterStudentsByEmailDomain\obj\Debug\FilterStudentsByEmailDomain.pdb

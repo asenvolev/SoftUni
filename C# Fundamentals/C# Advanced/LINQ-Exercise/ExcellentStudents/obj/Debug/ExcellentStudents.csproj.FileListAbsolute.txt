@@ -1,0 +1,6 @@
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\ExcellentStudents\bin\Debug\ExcellentStudents.exe.config
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\ExcellentStudents\bin\Debug\ExcellentStudents.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\ExcellentStudents\bin\Debug\ExcellentStudents.pdb
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\ExcellentStudents\obj\Debug\ExcellentStudents.csprojResolveAssemblyReference.cache
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\ExcellentStudents\obj\Debug\ExcellentStudents.exe
+F:\Softuni\C#AdvancedProject\LINQ-Exercise\ExcellentStudents\obj\Debug\ExcellentStudents.pdb
