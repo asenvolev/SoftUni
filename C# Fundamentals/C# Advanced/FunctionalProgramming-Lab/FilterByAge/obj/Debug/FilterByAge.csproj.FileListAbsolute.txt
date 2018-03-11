@@ -1,0 +1,6 @@
+F:\Softuni\C#Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\FilterByAge.exe.config
+F:\Softuni\C#Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\FilterByAge.exe
+F:\Softuni\C#Advanced\FunctionalProgramming-Lab\FilterByAge\bin\Debug\FilterByAge.pdb
+F:\Softuni\C#Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\FilterByAge.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\FilterByAge.exe
+F:\Softuni\C#Advanced\FunctionalProgramming-Lab\FilterByAge\obj\Debug\FilterByAge.pdb

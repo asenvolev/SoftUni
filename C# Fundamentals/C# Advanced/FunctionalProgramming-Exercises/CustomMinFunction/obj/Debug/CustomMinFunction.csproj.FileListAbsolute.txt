@@ -1,0 +1,5 @@
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\CustomMinFunction\bin\Debug\CustomMinFunction.exe.config
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\CustomMinFunction\bin\Debug\CustomMinFunction.exe
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\CustomMinFunction\bin\Debug\CustomMinFunction.pdb
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\CustomMinFunction\obj\Debug\CustomMinFunction.exe
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\CustomMinFunction\obj\Debug\CustomMinFunction.pdb

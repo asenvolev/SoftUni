@@ -1,0 +1,6 @@
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\FindEvensOrOdds\bin\Debug\FindEvensOrOdds.exe.config
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\FindEvensOrOdds\bin\Debug\FindEvensOrOdds.exe
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\FindEvensOrOdds\bin\Debug\FindEvensOrOdds.pdb
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\FindEvensOrOdds\obj\Debug\FindEvensOrOdds.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\FindEvensOrOdds\obj\Debug\FindEvensOrOdds.exe
+F:\Softuni\C#Advanced\FunctionalProgramming-Exercises\FindEvensOrOdds\obj\Debug\FindEvensOrOdds.pdb

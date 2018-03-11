@@ -1,0 +1,6 @@
+F:\Softuni\C# projects\C#Advanced\FunctionalProgramming-Exercises\PartyReservationFilterModule\bin\Debug\PartyReservationFilterModule.exe.config
+F:\Softuni\C# projects\C#Advanced\FunctionalProgramming-Exercises\PartyReservationFilterModule\bin\Debug\PartyReservationFilterModule.exe
+F:\Softuni\C# projects\C#Advanced\FunctionalProgramming-Exercises\PartyReservationFilterModule\bin\Debug\PartyReservationFilterModule.pdb
+F:\Softuni\C# projects\C#Advanced\FunctionalProgramming-Exercises\PartyReservationFilterModule\obj\Debug\PartyReservationFilterModule.csprojResolveAssemblyReference.cache
+F:\Softuni\C# projects\C#Advanced\FunctionalProgramming-Exercises\PartyReservationFilterModule\obj\Debug\PartyReservationFilterModule.exe
+F:\Softuni\C# projects\C#Advanced\FunctionalProgramming-Exercises\PartyReservationFilterModule\obj\Debug\PartyReservationFilterModule.pdb
