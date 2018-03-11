@@ -1,0 +1,5 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Lab\BankAccountTest\bin\Debug\BankAccountTest.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Lab\BankAccountTest\bin\Debug\BankAccountTest.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Lab\BankAccountTest\bin\Debug\BankAccountTest.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Lab\BankAccountTest\obj\Debug\BankAccountTest.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Lab\BankAccountTest\obj\Debug\BankAccountTest.pdb

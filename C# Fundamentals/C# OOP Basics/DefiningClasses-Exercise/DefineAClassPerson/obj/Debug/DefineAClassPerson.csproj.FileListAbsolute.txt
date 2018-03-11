@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\DefineAClassPerson.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\DefineAClassPerson.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\DefineAClassPerson.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\DefineAClassPerson.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\DefineAClassPerson.exe
+F:\Softuni\C#Fundamentals\C#OOP-Basics\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\DefineAClassPerson.pdb
