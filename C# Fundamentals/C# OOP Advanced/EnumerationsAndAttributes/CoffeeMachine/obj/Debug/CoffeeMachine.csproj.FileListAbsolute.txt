@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

@@ -1,0 +1,5 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CardSuit\bin\Debug\CardSuit.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CardSuit\bin\Debug\CardSuit.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CardSuit\bin\Debug\CardSuit.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CardSuit\obj\Debug\CardSuit.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CardSuit\obj\Debug\CardSuit.pdb

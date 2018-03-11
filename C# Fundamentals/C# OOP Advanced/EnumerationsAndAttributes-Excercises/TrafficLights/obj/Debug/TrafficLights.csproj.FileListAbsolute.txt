@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\TrafficLights\bin\Debug\TrafficLights.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\TrafficLights\bin\Debug\TrafficLights.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\TrafficLights\bin\Debug\TrafficLights.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\TrafficLights\obj\Debug\TrafficLights.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\TrafficLights\obj\Debug\TrafficLights.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\TrafficLights\obj\Debug\TrafficLights.pdb

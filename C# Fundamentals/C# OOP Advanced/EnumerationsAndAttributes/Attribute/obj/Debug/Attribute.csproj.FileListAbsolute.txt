@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\Attribute\bin\Debug\Attribute.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\Attribute\bin\Debug\Attribute.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\Attribute\bin\Debug\Attribute.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\Attribute\obj\Debug\Attribute.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\Attribute\obj\Debug\Attribute.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache

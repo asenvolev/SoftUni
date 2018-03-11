@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CreateCustomClassAttribute\bin\Debug\CreateCustomClassAttribute.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CreateCustomClassAttribute\bin\Debug\CreateCustomClassAttribute.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CreateCustomClassAttribute\bin\Debug\CreateCustomClassAttribute.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CreateCustomClassAttribute\obj\Debug\CreateCustomClassAttribute.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CreateCustomClassAttribute\obj\Debug\CreateCustomClassAttribute.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\EnumerationsAndAttributes-Excercises\CreateCustomClassAttribute\obj\Debug\CreateCustomClassAttribute.pdb
