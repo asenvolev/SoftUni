@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\ListyIterator.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\ListyIterator.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\ListyIterator.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\ListyIterator.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\ListyIterator.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\ListyIterator.pdb

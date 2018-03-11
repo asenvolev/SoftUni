@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\PetClinic\bin\Debug\PetClinic.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\PetClinic\bin\Debug\PetClinic.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\PetClinic\bin\Debug\PetClinic.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\PetClinic\obj\Debug\PetClinic.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\PetClinic\obj\Debug\PetClinic.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\IteratorsAndComparators-Exercise\PetClinic\obj\Debug\PetClinic.pdb
