@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.Data\obj\Debug\netcoreapp2.0\Instagraph.Data.pdb

@@ -1,0 +1,17 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\ExamPrep\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.pdb
