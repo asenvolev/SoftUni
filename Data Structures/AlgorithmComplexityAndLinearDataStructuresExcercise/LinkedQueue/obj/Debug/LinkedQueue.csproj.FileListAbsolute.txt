@@ -1,0 +1,7 @@
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedQueue\bin\Debug\LinkedQueue.exe.config
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedQueue\bin\Debug\LinkedQueue.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedQueue\bin\Debug\LinkedQueue.pdb
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedQueue\obj\Debug\LinkedQueue.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedQueue\obj\Debug\LinkedQueue.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedQueue\obj\Debug\LinkedQueue.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedQueue\obj\Debug\LinkedQueue.pdb

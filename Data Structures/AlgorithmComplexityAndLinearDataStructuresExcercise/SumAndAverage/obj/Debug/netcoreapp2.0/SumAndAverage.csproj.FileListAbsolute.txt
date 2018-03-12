@@ -1,0 +1,11 @@
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.deps.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.runtimeconfig.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.runtimeconfig.dev.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.dll
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\bin\Debug\netcoreapp2.0\SumAndAverage.pdb
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.AssemblyInfoInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.AssemblyInfo.cs
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.dll
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SumAndAverage\obj\Debug\netcoreapp2.0\SumAndAverage.pdb

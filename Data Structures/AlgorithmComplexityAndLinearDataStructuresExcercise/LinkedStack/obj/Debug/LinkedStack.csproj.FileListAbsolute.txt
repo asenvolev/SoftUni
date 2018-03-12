@@ -1,0 +1,7 @@
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedStack\bin\Debug\LinkedStack.exe.config
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedStack\bin\Debug\LinkedStack.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedStack\bin\Debug\LinkedStack.pdb
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedStack\obj\Debug\LinkedStack.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedStack\obj\Debug\LinkedStack.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedStack\obj\Debug\LinkedStack.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\LinkedStack\obj\Debug\LinkedStack.pdb

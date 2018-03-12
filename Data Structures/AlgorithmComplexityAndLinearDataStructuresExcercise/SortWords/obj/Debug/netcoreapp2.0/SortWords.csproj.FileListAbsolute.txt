@@ -1,0 +1,11 @@
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.deps.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.runtimeconfig.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.runtimeconfig.dev.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.dll
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\bin\Debug\netcoreapp2.0\SortWords.pdb
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.AssemblyInfoInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.AssemblyInfo.cs
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.dll
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SortWords\obj\Debug\netcoreapp2.0\SortWords.pdb

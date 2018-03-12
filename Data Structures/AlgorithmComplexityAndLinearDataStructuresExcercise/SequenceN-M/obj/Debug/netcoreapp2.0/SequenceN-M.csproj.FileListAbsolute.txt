@@ -1,0 +1,11 @@
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\bin\Debug\netcoreapp2.0\SequenceN-M.deps.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\bin\Debug\netcoreapp2.0\SequenceN-M.runtimeconfig.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\bin\Debug\netcoreapp2.0\SequenceN-M.runtimeconfig.dev.json
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\bin\Debug\netcoreapp2.0\SequenceN-M.dll
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\bin\Debug\netcoreapp2.0\SequenceN-M.pdb
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\obj\Debug\netcoreapp2.0\SequenceN-M.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\obj\Debug\netcoreapp2.0\SequenceN-M.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\obj\Debug\netcoreapp2.0\SequenceN-M.AssemblyInfoInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\obj\Debug\netcoreapp2.0\SequenceN-M.AssemblyInfo.cs
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\obj\Debug\netcoreapp2.0\SequenceN-M.dll
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\SequenceN-M\obj\Debug\netcoreapp2.0\SequenceN-M.pdb

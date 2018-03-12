@@ -1,0 +1,7 @@
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ArrayStack\bin\Debug\ArrayStack.exe.config
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ArrayStack\bin\Debug\ArrayStack.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ArrayStack\bin\Debug\ArrayStack.pdb
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ArrayStack\obj\Debug\ArrayStack.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ArrayStack\obj\Debug\ArrayStack.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ArrayStack\obj\Debug\ArrayStack.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ArrayStack\obj\Debug\ArrayStack.pdb

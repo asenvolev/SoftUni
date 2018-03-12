@@ -1,0 +1,7 @@
+F:\Softuni\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+F:\Softuni\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+F:\Softuni\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+F:\Softuni\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+F:\Softuni\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+F:\Softuni\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+F:\Softuni\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

@@ -1,0 +1,7 @@
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ReversedList\bin\Debug\ReversedList.exe.config
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ReversedList\bin\Debug\ReversedList.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ReversedList\bin\Debug\ReversedList.pdb
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ReversedList\obj\Debug\ReversedList.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ReversedList\obj\Debug\ReversedList.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ReversedList\obj\Debug\ReversedList.exe
+F:\Softuni\Data Structures\AlgorithmComplexityAndLinearDataStructuresExcercise\ReversedList\obj\Debug\ReversedList.pdb
