@@ -1,0 +1,2 @@
+ALTER TABLE Users
+ADD CONSTRAINT CheckDataLenght CHECK (DATALENGTH(Password) > 4)
