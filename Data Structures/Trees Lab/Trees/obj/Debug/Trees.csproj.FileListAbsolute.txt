@@ -1,0 +1,7 @@
+F:\Softuni\Data Structures\Trees\Trees\bin\Debug\Trees.exe.config
+F:\Softuni\Data Structures\Trees\Trees\bin\Debug\Trees.exe
+F:\Softuni\Data Structures\Trees\Trees\bin\Debug\Trees.pdb
+F:\Softuni\Data Structures\Trees\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\Trees\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\Trees\Trees\obj\Debug\Trees.exe
+F:\Softuni\Data Structures\Trees\Trees\obj\Debug\Trees.pdb

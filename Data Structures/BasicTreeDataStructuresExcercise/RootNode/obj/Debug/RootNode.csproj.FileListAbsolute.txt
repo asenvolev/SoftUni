@@ -1,0 +1,6 @@
+F:\Softuni\Data Structures\BasicTreeDataStructuresExcercise\RootNode\bin\Debug\RootNode.exe.config
+F:\Softuni\Data Structures\BasicTreeDataStructuresExcercise\RootNode\bin\Debug\RootNode.exe
+F:\Softuni\Data Structures\BasicTreeDataStructuresExcercise\RootNode\bin\Debug\RootNode.pdb
+F:\Softuni\Data Structures\BasicTreeDataStructuresExcercise\RootNode\obj\Debug\RootNode.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\BasicTreeDataStructuresExcercise\RootNode\obj\Debug\RootNode.exe
+F:\Softuni\Data Structures\BasicTreeDataStructuresExcercise\RootNode\obj\Debug\RootNode.pdb
