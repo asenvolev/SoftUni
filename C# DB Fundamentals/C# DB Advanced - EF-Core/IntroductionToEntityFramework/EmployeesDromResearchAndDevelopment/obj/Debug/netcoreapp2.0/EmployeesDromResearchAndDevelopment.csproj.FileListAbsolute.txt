@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\bin\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\bin\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\bin\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\bin\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\bin\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\obj\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\obj\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\obj\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\obj\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\obj\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesDromResearchAndDevelopment\obj\Debug\netcoreapp2.0\EmployeesDromResearchAndDevelopment.pdb

@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\bin\Debug\netcoreapp2.0\IncreaseSalaries.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\bin\Debug\netcoreapp2.0\IncreaseSalaries.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\bin\Debug\netcoreapp2.0\IncreaseSalaries.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\bin\Debug\netcoreapp2.0\IncreaseSalaries.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\bin\Debug\netcoreapp2.0\IncreaseSalaries.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\obj\Debug\netcoreapp2.0\IncreaseSalaries.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\obj\Debug\netcoreapp2.0\IncreaseSalaries.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\obj\Debug\netcoreapp2.0\IncreaseSalaries.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\obj\Debug\netcoreapp2.0\IncreaseSalaries.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\obj\Debug\netcoreapp2.0\IncreaseSalaries.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\IncreaseSalaries\obj\Debug\netcoreapp2.0\IncreaseSalaries.pdb

@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\bin\Debug\netcoreapp2.0\Employee147.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\bin\Debug\netcoreapp2.0\Employee147.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\bin\Debug\netcoreapp2.0\Employee147.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\bin\Debug\netcoreapp2.0\Employee147.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\bin\Debug\netcoreapp2.0\Employee147.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\obj\Debug\netcoreapp2.0\Employee147.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\obj\Debug\netcoreapp2.0\Employee147.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\obj\Debug\netcoreapp2.0\Employee147.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\obj\Debug\netcoreapp2.0\Employee147.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\obj\Debug\netcoreapp2.0\Employee147.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\Employee147\obj\Debug\netcoreapp2.0\Employee147.pdb

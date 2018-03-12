@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddingАNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.0\AddingАNewAddressАndUpdatingEmployee.pdb

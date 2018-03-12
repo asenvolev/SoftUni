@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\bin\Debug\netcoreapp2.0\DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\DatabaseFirst\obj\Debug\netcoreapp2.0\DatabaseFirst.pdb

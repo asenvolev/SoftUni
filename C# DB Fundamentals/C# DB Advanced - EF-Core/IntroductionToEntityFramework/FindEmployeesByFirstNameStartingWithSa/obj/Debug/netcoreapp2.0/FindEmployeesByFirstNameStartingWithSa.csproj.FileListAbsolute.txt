@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\bin\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\bin\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\bin\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\bin\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\bin\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\obj\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\obj\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\obj\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\obj\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\obj\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindEmployeesByFirstNameStartingWithSa\obj\Debug\netcoreapp2.0\FindEmployeesByFirstNameStartingWithSa.pdb

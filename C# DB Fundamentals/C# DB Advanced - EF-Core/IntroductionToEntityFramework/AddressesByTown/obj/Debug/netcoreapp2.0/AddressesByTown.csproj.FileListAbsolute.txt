@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\bin\Debug\netcoreapp2.0\AddressesByTown.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\bin\Debug\netcoreapp2.0\AddressesByTown.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\bin\Debug\netcoreapp2.0\AddressesByTown.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\bin\Debug\netcoreapp2.0\AddressesByTown.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\bin\Debug\netcoreapp2.0\AddressesByTown.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\obj\Debug\netcoreapp2.0\AddressesByTown.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\obj\Debug\netcoreapp2.0\AddressesByTown.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\obj\Debug\netcoreapp2.0\AddressesByTown.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\obj\Debug\netcoreapp2.0\AddressesByTown.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\obj\Debug\netcoreapp2.0\AddressesByTown.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\AddressesByTown\obj\Debug\netcoreapp2.0\AddressesByTown.pdb

@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\bin\Debug\netcoreapp2.0\FindLatest10Projects.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\bin\Debug\netcoreapp2.0\FindLatest10Projects.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\bin\Debug\netcoreapp2.0\FindLatest10Projects.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\bin\Debug\netcoreapp2.0\FindLatest10Projects.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\bin\Debug\netcoreapp2.0\FindLatest10Projects.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\obj\Debug\netcoreapp2.0\FindLatest10Projects.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\obj\Debug\netcoreapp2.0\FindLatest10Projects.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\obj\Debug\netcoreapp2.0\FindLatest10Projects.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\obj\Debug\netcoreapp2.0\FindLatest10Projects.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\obj\Debug\netcoreapp2.0\FindLatest10Projects.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\FindLatest10Projects\obj\Debug\netcoreapp2.0\FindLatest10Projects.pdb

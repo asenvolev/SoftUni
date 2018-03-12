@@ -1,0 +1,13 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\bin\Debug\netcoreapp2.0\EmployeesFullInformation.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\bin\Debug\netcoreapp2.0\EmployeesFullInformation.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\bin\Debug\netcoreapp2.0\EmployeesFullInformation.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\bin\Debug\netcoreapp2.0\EmployeesFullInformation.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\bin\Debug\netcoreapp2.0\EmployeesFullInformation.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\obj\Debug\netcoreapp2.0\EmployeesFullInformation.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\obj\Debug\netcoreapp2.0\EmployeesFullInformation.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\obj\Debug\netcoreapp2.0\EmployeesFullInformation.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\obj\Debug\netcoreapp2.0\EmployeesFullInformation.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\obj\Debug\netcoreapp2.0\EmployeesFullInformation.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\IntroductionToEntityFramework\EmployeesFullInformation\obj\Debug\netcoreapp2.0\EmployeesFullInformation.pdb
