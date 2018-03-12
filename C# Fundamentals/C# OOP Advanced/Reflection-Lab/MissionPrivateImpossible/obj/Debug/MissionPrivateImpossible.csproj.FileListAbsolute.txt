@@ -1,0 +1,5 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\MissionPrivateImpossible\bin\Debug\MissionPrivateImpossible.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\MissionPrivateImpossible\bin\Debug\MissionPrivateImpossible.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\MissionPrivateImpossible\bin\Debug\MissionPrivateImpossible.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\MissionPrivateImpossible\obj\Debug\MissionPrivateImpossible.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\MissionPrivateImpossible\obj\Debug\MissionPrivateImpossible.pdb

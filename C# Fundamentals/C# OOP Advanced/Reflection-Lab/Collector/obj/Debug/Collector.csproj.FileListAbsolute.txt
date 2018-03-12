@@ -1,0 +1,5 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\Collector\bin\Debug\Collector.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\Collector\bin\Debug\Collector.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\Collector\bin\Debug\Collector.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\Collector\obj\Debug\Collector.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\Reflection-Lab\Collector\obj\Debug\Collector.pdb
