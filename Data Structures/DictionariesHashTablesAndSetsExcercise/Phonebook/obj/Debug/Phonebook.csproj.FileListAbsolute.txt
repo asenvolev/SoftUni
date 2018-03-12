@@ -1,0 +1,6 @@
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\Phonebook\bin\Debug\Phonebook.exe.config
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\Phonebook\bin\Debug\Phonebook.exe
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\Phonebook\bin\Debug\Phonebook.pdb
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\Phonebook\obj\Debug\Phonebook.exe
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\Phonebook\obj\Debug\Phonebook.pdb

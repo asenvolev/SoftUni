@@ -1,0 +1,6 @@
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\CountSymbols\bin\Debug\CountSymbols.exe.config
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\CountSymbols\bin\Debug\CountSymbols.exe
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\CountSymbols\bin\Debug\CountSymbols.pdb
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\CountSymbols\obj\Debug\CountSymbols.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\CountSymbols\obj\Debug\CountSymbols.exe
+F:\Softuni\Data Structures\DictionariesHashTablesAndSetsExcercise\CountSymbols\obj\Debug\CountSymbols.pdb
