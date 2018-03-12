@@ -1,0 +1,10 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\bin\Debug\ExtendedDatabase.Tests.dll
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\bin\Debug\ExtendedDatabase.Tests.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\bin\Debug\ExtendedDatabase.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\bin\Debug\nunit.framework.dll
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\bin\Debug\ExtendedDatabase.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\bin\Debug\nunit.framework.xml
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\obj\Debug\ExtendedDatabase.Tests.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\obj\Debug\ExtendedDatabase.Tests.dll
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\UnitTesting-Excecises\ExtendedDatabase.Tests\obj\Debug\ExtendedDatabase.Tests.pdb

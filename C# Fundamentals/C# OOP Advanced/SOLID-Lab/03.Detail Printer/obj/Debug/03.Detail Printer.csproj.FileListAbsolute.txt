@@ -1,0 +1,6 @@
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\SOLID-Lab\03.Detail Printer\bin\Debug\03.Detail Printer.exe.config
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\SOLID-Lab\03.Detail Printer\obj\Debug\03.Detail Printer.csprojResolveAssemblyReference.cache
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\SOLID-Lab\03.Detail Printer\bin\Debug\03.Detail Printer.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\SOLID-Lab\03.Detail Printer\bin\Debug\03.Detail Printer.pdb
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\SOLID-Lab\03.Detail Printer\obj\Debug\03.Detail Printer.exe
+F:\Softuni\C#Fundamentals\C#OOP-Advanced\SOLID-Lab\03.Detail Printer\obj\Debug\03.Detail Printer.pdb
