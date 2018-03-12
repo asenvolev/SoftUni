@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb

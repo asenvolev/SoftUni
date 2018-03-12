@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
