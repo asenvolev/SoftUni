@@ -1,0 +1,10 @@
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\bin\Debug\AStar.Tests.dll
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\bin\Debug\AStar.Tests.pdb
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\bin\Debug\AStar.exe
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\bin\Debug\AStar.pdb
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\bin\Debug\AStar.exe.config
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\obj\Debug\AStar.Tests.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\obj\Debug\AStar.Tests.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\obj\Debug\AStar.Tests.dll
+F:\Softuni\Data Structures\HeapsPriorityQueuesExcercise\AStar\AStar.Tests\obj\Debug\AStar.Tests.pdb
