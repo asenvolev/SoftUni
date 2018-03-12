@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\bin\Debug\netcoreapp2.0\MinionNames.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\bin\Debug\netcoreapp2.0\MinionNames.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\bin\Debug\netcoreapp2.0\MinionNames.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\bin\Debug\netcoreapp2.0\MinionNames.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\obj\Debug\netcoreapp2.0\MinionNames.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\obj\Debug\netcoreapp2.0\MinionNames.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\obj\Debug\netcoreapp2.0\MinionNames.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\obj\Debug\netcoreapp2.0\MinionNames.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\bin\Debug\netcoreapp2.0\MinionNames.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\obj\Debug\netcoreapp2.0\MinionNames.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\MinionNames\obj\Debug\netcoreapp2.0\MinionNames.pdb

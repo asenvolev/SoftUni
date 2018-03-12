@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.0\InitialSetup.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.0\InitialSetup.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.0\InitialSetup.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.0\InitialSetup.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.0\InitialSetup.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.0\InitialSetup.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.0\InitialSetup.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.0\InitialSetup.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.0\InitialSetup.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.0\InitialSetup.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.0\InitialSetup.pdb

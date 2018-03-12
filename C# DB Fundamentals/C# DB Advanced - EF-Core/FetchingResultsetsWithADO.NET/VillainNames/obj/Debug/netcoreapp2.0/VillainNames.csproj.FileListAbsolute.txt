@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\bin\Debug\netcoreapp2.0\VillainNames.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\bin\Debug\netcoreapp2.0\VillainNames.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\bin\Debug\netcoreapp2.0\VillainNames.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\bin\Debug\netcoreapp2.0\VillainNames.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\obj\Debug\netcoreapp2.0\VillainNames.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\obj\Debug\netcoreapp2.0\VillainNames.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\obj\Debug\netcoreapp2.0\VillainNames.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\obj\Debug\netcoreapp2.0\VillainNames.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\bin\Debug\netcoreapp2.0\VillainNames.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\obj\Debug\netcoreapp2.0\VillainNames.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\VillainNames\obj\Debug\netcoreapp2.0\VillainNames.pdb

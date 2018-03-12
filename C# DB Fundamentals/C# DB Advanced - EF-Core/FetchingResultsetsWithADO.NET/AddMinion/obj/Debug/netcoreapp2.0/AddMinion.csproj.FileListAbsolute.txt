@@ -1,0 +1,7 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\AddMinion\bin\Debug\netcoreapp2.0\AddMinion.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\AddMinion\bin\Debug\netcoreapp2.0\AddMinion.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\AddMinion\bin\Debug\netcoreapp2.0\AddMinion.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\AddMinion\bin\Debug\netcoreapp2.0\AddMinion.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\AddMinion\obj\Debug\netcoreapp2.0\AddMinion.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\AddMinion\obj\Debug\netcoreapp2.0\AddMinion.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\FetchingResultsetsWithADO.NET\AddMinion\obj\Debug\netcoreapp2.0\AddMinion.AssemblyInfo.cs
