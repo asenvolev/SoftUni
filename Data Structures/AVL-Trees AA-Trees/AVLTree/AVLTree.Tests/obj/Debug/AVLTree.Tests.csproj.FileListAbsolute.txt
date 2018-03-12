@@ -1,0 +1,10 @@
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.dll
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.pdb
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.pdb
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe.config
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csprojResolveAssemblyReference.cache
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CoreCompileInputs.cache
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.dll
+F:\Softuni\Data Structures\AVL-Trees AA-Trees\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.pdb
