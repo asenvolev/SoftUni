@@ -1,0 +1,17 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.runtimeconfig.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.runtimeconfig.dev.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.pdb

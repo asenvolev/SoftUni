@@ -1,0 +1,11 @@
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.deps.json
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojResolveAssemblyReference.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
+F:\Softuni\C# DB Fundamentals\C# DB Advanced\AdvancedQuering\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb
