@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Github Commits</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+GitHub username:
+<input type="text" id="username" value="nakov" /> <br>
+Repo: <input type="text" id="repo" value="nakov.io.cin" />
+<button onclick="loadCommits()">Load Commits</button>
+<ul id="commits"></ul>
+<script>
+    function loadCommits() {
+        let URL = "https://api.github.com/repos/"
+        let user = $('#username').val()
+        let repo = $('#repo').val()
+        $.get(URL+user+'/'+repo+'/'+'commits')
+        .then(generateLi)
+        .catch(handleError)
+
+        function generateLi(res) {
+            for (let commit of Object.keys(res)) {
+                $('#commits').append($('<li>').text(res[commit].commit.author.name + ': ' + res[commit].commit.message))
+            }
+        }
+
+        function handleError(res) {
+            $('#commits').append($('<li>').text('Error: 404 (Not Found)'))
+        }
+    }
+</script>
+</body>
+</html>
