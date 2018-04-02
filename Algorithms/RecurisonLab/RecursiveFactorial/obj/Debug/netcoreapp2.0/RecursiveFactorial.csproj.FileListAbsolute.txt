@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.deps.json
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.runtimeconfig.json
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.dll
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.pdb
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.dll
+F:\Softuni\Algorithms\RecurisonLab\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.pdb

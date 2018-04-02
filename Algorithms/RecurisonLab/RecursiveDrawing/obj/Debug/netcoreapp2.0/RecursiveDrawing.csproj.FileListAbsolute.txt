@@ -1,0 +1,10 @@
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\bin\Debug\netcoreapp2.0\RecursiveDrawing.deps.json
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\bin\Debug\netcoreapp2.0\RecursiveDrawing.runtimeconfig.json
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\bin\Debug\netcoreapp2.0\RecursiveDrawing.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\bin\Debug\netcoreapp2.0\RecursiveDrawing.dll
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\bin\Debug\netcoreapp2.0\RecursiveDrawing.pdb
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\obj\Debug\netcoreapp2.0\RecursiveDrawing.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\obj\Debug\netcoreapp2.0\RecursiveDrawing.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\obj\Debug\netcoreapp2.0\RecursiveDrawing.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\obj\Debug\netcoreapp2.0\RecursiveDrawing.dll
+F:\Softuni\Algorithms\RecurisonLab\RecursiveDrawing\obj\Debug\netcoreapp2.0\RecursiveDrawing.pdb

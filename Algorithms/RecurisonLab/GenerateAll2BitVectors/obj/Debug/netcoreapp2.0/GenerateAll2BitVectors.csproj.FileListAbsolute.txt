@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\bin\Debug\netcoreapp2.0\GenerateAll2BitVectors.deps.json
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\bin\Debug\netcoreapp2.0\GenerateAll2BitVectors.runtimeconfig.json
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\bin\Debug\netcoreapp2.0\GenerateAll2BitVectors.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\bin\Debug\netcoreapp2.0\GenerateAll2BitVectors.dll
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\bin\Debug\netcoreapp2.0\GenerateAll2BitVectors.pdb
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\obj\Debug\netcoreapp2.0\GenerateAll2BitVectors.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\obj\Debug\netcoreapp2.0\GenerateAll2BitVectors.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\obj\Debug\netcoreapp2.0\GenerateAll2BitVectors.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\obj\Debug\netcoreapp2.0\GenerateAll2BitVectors.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\obj\Debug\netcoreapp2.0\GenerateAll2BitVectors.dll
+F:\Softuni\Algorithms\RecurisonLab\GenerateAll2BitVectors\obj\Debug\netcoreapp2.0\GenerateAll2BitVectors.pdb

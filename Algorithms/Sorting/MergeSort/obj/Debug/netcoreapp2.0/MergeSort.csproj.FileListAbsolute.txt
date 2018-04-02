@@ -1,0 +1,11 @@
+C:\Users\Volevi\source\repos\Sorting\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.deps.json
+C:\Users\Volevi\source\repos\Sorting\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.json
+C:\Users\Volevi\source\repos\Sorting\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.dev.json
+C:\Users\Volevi\source\repos\Sorting\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.dll
+C:\Users\Volevi\source\repos\Sorting\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.pdb
+C:\Users\Volevi\source\repos\Sorting\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Volevi\source\repos\Sorting\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Volevi\source\repos\Sorting\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Volevi\source\repos\Sorting\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfo.cs
+C:\Users\Volevi\source\repos\Sorting\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.dll
+C:\Users\Volevi\source\repos\Sorting\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.pdb

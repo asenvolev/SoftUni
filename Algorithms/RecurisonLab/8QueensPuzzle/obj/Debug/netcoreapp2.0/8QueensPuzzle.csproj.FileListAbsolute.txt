@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\obj\Debug\netcoreapp2.0\8QueensPuzzle.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\obj\Debug\netcoreapp2.0\8QueensPuzzle.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\obj\Debug\netcoreapp2.0\8QueensPuzzle.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\bin\Debug\netcoreapp2.0\8QueensPuzzle.deps.json
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\bin\Debug\netcoreapp2.0\8QueensPuzzle.runtimeconfig.json
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\bin\Debug\netcoreapp2.0\8QueensPuzzle.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\bin\Debug\netcoreapp2.0\8QueensPuzzle.dll
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\bin\Debug\netcoreapp2.0\8QueensPuzzle.pdb
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\obj\Debug\netcoreapp2.0\8QueensPuzzle.dll
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\obj\Debug\netcoreapp2.0\8QueensPuzzle.pdb
+F:\Softuni\Algorithms\RecurisonLab\8QueensPuzzle\obj\Debug\netcoreapp2.0\8QueensPuzzle.csprojResolveAssemblyReference.cache

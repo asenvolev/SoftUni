@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.deps.json
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.runtimeconfig.json
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.dll
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.pdb
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.dll
+F:\Softuni\Algorithms\RecursionExcercise\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.pdb

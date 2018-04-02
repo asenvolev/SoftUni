@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\netcoreapp2.0\VariationsWithoutRepetitions.deps.json
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\netcoreapp2.0\VariationsWithoutRepetitions.runtimeconfig.json
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\netcoreapp2.0\VariationsWithoutRepetitions.runtimeconfig.dev.json
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\netcoreapp2.0\VariationsWithoutRepetitions.dll
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\netcoreapp2.0\VariationsWithoutRepetitions.pdb
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\netcoreapp2.0\VariationsWithoutRepetitions.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\netcoreapp2.0\VariationsWithoutRepetitions.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\netcoreapp2.0\VariationsWithoutRepetitions.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\netcoreapp2.0\VariationsWithoutRepetitions.AssemblyInfo.cs
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\netcoreapp2.0\VariationsWithoutRepetitions.dll
+F:\Softuni\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\netcoreapp2.0\VariationsWithoutRepetitions.pdb

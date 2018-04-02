@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\Sorting\InversionCount\bin\Debug\netcoreapp2.0\InversionCount.deps.json
+F:\Softuni\Algorithms\Sorting\InversionCount\bin\Debug\netcoreapp2.0\InversionCount.runtimeconfig.json
+F:\Softuni\Algorithms\Sorting\InversionCount\bin\Debug\netcoreapp2.0\InversionCount.runtimeconfig.dev.json
+F:\Softuni\Algorithms\Sorting\InversionCount\bin\Debug\netcoreapp2.0\InversionCount.dll
+F:\Softuni\Algorithms\Sorting\InversionCount\bin\Debug\netcoreapp2.0\InversionCount.pdb
+F:\Softuni\Algorithms\Sorting\InversionCount\obj\Debug\netcoreapp2.0\InversionCount.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\Sorting\InversionCount\obj\Debug\netcoreapp2.0\InversionCount.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\Sorting\InversionCount\obj\Debug\netcoreapp2.0\InversionCount.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\Sorting\InversionCount\obj\Debug\netcoreapp2.0\InversionCount.AssemblyInfo.cs
+F:\Softuni\Algorithms\Sorting\InversionCount\obj\Debug\netcoreapp2.0\InversionCount.dll
+F:\Softuni\Algorithms\Sorting\InversionCount\obj\Debug\netcoreapp2.0\InversionCount.pdb

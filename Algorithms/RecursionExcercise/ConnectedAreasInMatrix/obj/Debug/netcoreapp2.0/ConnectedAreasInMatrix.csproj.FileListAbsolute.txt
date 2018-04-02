@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\bin\Debug\netcoreapp2.0\ConnectedAreasInMatrix.deps.json
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\bin\Debug\netcoreapp2.0\ConnectedAreasInMatrix.runtimeconfig.json
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\bin\Debug\netcoreapp2.0\ConnectedAreasInMatrix.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\bin\Debug\netcoreapp2.0\ConnectedAreasInMatrix.dll
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\bin\Debug\netcoreapp2.0\ConnectedAreasInMatrix.pdb
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\obj\Debug\netcoreapp2.0\ConnectedAreasInMatrix.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\obj\Debug\netcoreapp2.0\ConnectedAreasInMatrix.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\obj\Debug\netcoreapp2.0\ConnectedAreasInMatrix.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\obj\Debug\netcoreapp2.0\ConnectedAreasInMatrix.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\obj\Debug\netcoreapp2.0\ConnectedAreasInMatrix.dll
+F:\Softuni\Algorithms\RecursionExcercise\ConnectedAreasInMatrix\obj\Debug\netcoreapp2.0\ConnectedAreasInMatrix.pdb

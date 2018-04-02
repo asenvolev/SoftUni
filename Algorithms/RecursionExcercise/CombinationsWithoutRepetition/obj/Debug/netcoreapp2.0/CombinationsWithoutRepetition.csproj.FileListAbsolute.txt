@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\obj\Debug\netcoreapp2.0\CombinationsWithoutRepetition.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\obj\Debug\netcoreapp2.0\CombinationsWithoutRepetition.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\obj\Debug\netcoreapp2.0\CombinationsWithoutRepetition.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\obj\Debug\netcoreapp2.0\CombinationsWithoutRepetition.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\bin\Debug\netcoreapp2.0\CombinationsWithoutRepetition.deps.json
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\bin\Debug\netcoreapp2.0\CombinationsWithoutRepetition.runtimeconfig.json
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\bin\Debug\netcoreapp2.0\CombinationsWithoutRepetition.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\bin\Debug\netcoreapp2.0\CombinationsWithoutRepetition.dll
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\bin\Debug\netcoreapp2.0\CombinationsWithoutRepetition.pdb
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\obj\Debug\netcoreapp2.0\CombinationsWithoutRepetition.dll
+F:\Softuni\Algorithms\RecursionExcercise\CombinationsWithoutRepetition\obj\Debug\netcoreapp2.0\CombinationsWithoutRepetition.pdb

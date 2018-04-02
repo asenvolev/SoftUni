@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\bin\Debug\netcoreapp2.0\GeneratingCombinations.deps.json
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\bin\Debug\netcoreapp2.0\GeneratingCombinations.runtimeconfig.json
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\bin\Debug\netcoreapp2.0\GeneratingCombinations.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\bin\Debug\netcoreapp2.0\GeneratingCombinations.dll
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\bin\Debug\netcoreapp2.0\GeneratingCombinations.pdb
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\obj\Debug\netcoreapp2.0\GeneratingCombinations.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\obj\Debug\netcoreapp2.0\GeneratingCombinations.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\obj\Debug\netcoreapp2.0\GeneratingCombinations.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\obj\Debug\netcoreapp2.0\GeneratingCombinations.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\obj\Debug\netcoreapp2.0\GeneratingCombinations.dll
+F:\Softuni\Algorithms\RecurisonLab\GeneratingCombinations\obj\Debug\netcoreapp2.0\GeneratingCombinations.pdb

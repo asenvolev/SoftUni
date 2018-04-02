@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\bin\Debug\netcoreapp2.0\FindPathsInLabyrinth.deps.json
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\bin\Debug\netcoreapp2.0\FindPathsInLabyrinth.runtimeconfig.json
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\bin\Debug\netcoreapp2.0\FindPathsInLabyrinth.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\bin\Debug\netcoreapp2.0\FindPathsInLabyrinth.dll
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\bin\Debug\netcoreapp2.0\FindPathsInLabyrinth.pdb
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\obj\Debug\netcoreapp2.0\FindPathsInLabyrinth.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\obj\Debug\netcoreapp2.0\FindPathsInLabyrinth.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\obj\Debug\netcoreapp2.0\FindPathsInLabyrinth.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\obj\Debug\netcoreapp2.0\FindPathsInLabyrinth.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\obj\Debug\netcoreapp2.0\FindPathsInLabyrinth.dll
+F:\Softuni\Algorithms\RecurisonLab\FindPathsInLabyrinth\obj\Debug\netcoreapp2.0\FindPathsInLabyrinth.pdb

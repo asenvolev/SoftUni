@@ -1,0 +1,11 @@
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\bin\Debug\netcoreapp2.0\InterpolationSearch.deps.json
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\bin\Debug\netcoreapp2.0\InterpolationSearch.runtimeconfig.json
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\bin\Debug\netcoreapp2.0\InterpolationSearch.runtimeconfig.dev.json
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\bin\Debug\netcoreapp2.0\InterpolationSearch.dll
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\bin\Debug\netcoreapp2.0\InterpolationSearch.pdb
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\obj\Debug\netcoreapp2.0\InterpolationSearch.csprojResolveAssemblyReference.cache
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\obj\Debug\netcoreapp2.0\InterpolationSearch.csproj.CoreCompileInputs.cache
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\obj\Debug\netcoreapp2.0\InterpolationSearch.AssemblyInfoInputs.cache
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\obj\Debug\netcoreapp2.0\InterpolationSearch.AssemblyInfo.cs
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\obj\Debug\netcoreapp2.0\InterpolationSearch.dll
+C:\Users\Volevi\source\repos\Sorting\InterpolationSearch\obj\Debug\netcoreapp2.0\InterpolationSearch.pdb

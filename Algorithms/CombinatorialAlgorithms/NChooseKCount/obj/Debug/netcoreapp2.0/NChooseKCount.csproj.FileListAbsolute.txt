@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\bin\Debug\netcoreapp2.0\NChooseKCount.deps.json
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\bin\Debug\netcoreapp2.0\NChooseKCount.runtimeconfig.json
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\bin\Debug\netcoreapp2.0\NChooseKCount.runtimeconfig.dev.json
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\bin\Debug\netcoreapp2.0\NChooseKCount.dll
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\bin\Debug\netcoreapp2.0\NChooseKCount.pdb
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\obj\Debug\netcoreapp2.0\NChooseKCount.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\obj\Debug\netcoreapp2.0\NChooseKCount.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\obj\Debug\netcoreapp2.0\NChooseKCount.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\obj\Debug\netcoreapp2.0\NChooseKCount.AssemblyInfo.cs
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\obj\Debug\netcoreapp2.0\NChooseKCount.dll
+F:\Softuni\Algorithms\CombinatorialAlgorithms\NChooseKCount\obj\Debug\netcoreapp2.0\NChooseKCount.pdb

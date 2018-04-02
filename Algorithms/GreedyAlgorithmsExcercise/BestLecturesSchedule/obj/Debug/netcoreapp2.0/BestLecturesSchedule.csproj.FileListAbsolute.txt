@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\bin\Debug\netcoreapp2.0\BestLecturesSchedule.deps.json
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\bin\Debug\netcoreapp2.0\BestLecturesSchedule.runtimeconfig.json
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\bin\Debug\netcoreapp2.0\BestLecturesSchedule.runtimeconfig.dev.json
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\bin\Debug\netcoreapp2.0\BestLecturesSchedule.dll
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\bin\Debug\netcoreapp2.0\BestLecturesSchedule.pdb
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\obj\Debug\netcoreapp2.0\BestLecturesSchedule.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\obj\Debug\netcoreapp2.0\BestLecturesSchedule.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\obj\Debug\netcoreapp2.0\BestLecturesSchedule.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\obj\Debug\netcoreapp2.0\BestLecturesSchedule.AssemblyInfo.cs
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\obj\Debug\netcoreapp2.0\BestLecturesSchedule.dll
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\BestLecturesSchedule\obj\Debug\netcoreapp2.0\BestLecturesSchedule.pdb

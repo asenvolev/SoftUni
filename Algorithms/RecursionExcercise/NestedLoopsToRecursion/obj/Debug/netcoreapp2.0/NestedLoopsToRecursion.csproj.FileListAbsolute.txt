@@ -1,0 +1,10 @@
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\bin\Debug\netcoreapp2.0\NestedLoopsToRecursion.deps.json
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\bin\Debug\netcoreapp2.0\NestedLoopsToRecursion.runtimeconfig.json
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\bin\Debug\netcoreapp2.0\NestedLoopsToRecursion.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\bin\Debug\netcoreapp2.0\NestedLoopsToRecursion.dll
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\bin\Debug\netcoreapp2.0\NestedLoopsToRecursion.pdb
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\obj\Debug\netcoreapp2.0\NestedLoopsToRecursion.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\obj\Debug\netcoreapp2.0\NestedLoopsToRecursion.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\obj\Debug\netcoreapp2.0\NestedLoopsToRecursion.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\obj\Debug\netcoreapp2.0\NestedLoopsToRecursion.dll
+F:\Softuni\Algorithms\RecursionExcercise\NestedLoopsToRecursion\obj\Debug\netcoreapp2.0\NestedLoopsToRecursion.pdb

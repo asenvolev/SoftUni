@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.deps.json
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.runtimeconfig.json
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.runtimeconfig.dev.json
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.dll
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.pdb
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.AssemblyInfo.cs
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.dll
+F:\Softuni\Algorithms\RecursionExcercise\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.pdb

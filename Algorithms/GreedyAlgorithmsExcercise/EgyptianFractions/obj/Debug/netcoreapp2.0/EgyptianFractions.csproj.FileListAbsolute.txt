@@ -1,0 +1,11 @@
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\bin\Debug\netcoreapp2.0\EgyptianFractions.deps.json
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\bin\Debug\netcoreapp2.0\EgyptianFractions.runtimeconfig.json
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\bin\Debug\netcoreapp2.0\EgyptianFractions.runtimeconfig.dev.json
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\bin\Debug\netcoreapp2.0\EgyptianFractions.dll
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\bin\Debug\netcoreapp2.0\EgyptianFractions.pdb
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\obj\Debug\netcoreapp2.0\EgyptianFractions.csprojResolveAssemblyReference.cache
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\obj\Debug\netcoreapp2.0\EgyptianFractions.csproj.CoreCompileInputs.cache
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\obj\Debug\netcoreapp2.0\EgyptianFractions.AssemblyInfoInputs.cache
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\obj\Debug\netcoreapp2.0\EgyptianFractions.AssemblyInfo.cs
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\obj\Debug\netcoreapp2.0\EgyptianFractions.dll
+F:\Softuni\Algorithms\GreedyAlgorithmsExcercise\EgyptianFractions\obj\Debug\netcoreapp2.0\EgyptianFractions.pdb
